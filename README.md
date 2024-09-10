@@ -42,12 +42,12 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 ### Yêu cầu 
 <p>AI: gợi ý sản phẩm phân cụm người dung </p>
 <p>Web: Laravel</p>
-<p>Ngôn ngữ: Javascript, C# </p>
+<p>Ngôn ngữ: Javascript, php ,sass, html/css </p>
 <p>Framework: Bootstrap</p>
 
 <p>Nghiệp vụ</p>
 
-<h1>Bảng Phân Chia Công Việc - Web</h1>
+<b>Bảng Phân Chia Công Việc - Web</b>
     <table>
         <thead>
             <tr>
@@ -182,10 +182,10 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
     </table>
 
 
-<p>App: Winform </p>
+<h3>App: Winform </h3>
 <p>Ngôn ngữ: C# </p>
 
-<h1>Bảng Phân Chia Công Việc - WinForms</h1>
+<p>Bảng Phân Chia Công Việc - WinForms</p>
     <table>
         <thead>
             <tr>
