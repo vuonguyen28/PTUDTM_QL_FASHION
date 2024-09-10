@@ -1,17 +1,22 @@
 # Thành viên
-<h4>Tên nhóm: Sea  </h4>
+<h4>Tên nhóm: FASHION  </h4>
 
->>**Thầy  Bùi Công Danh**
   
 | STT | Họ tên | Chức vụ  |
 |----------------|--------------------|--------------------|
-|  1  |  Trần Ngọc Hiếu Thảo  |   Nhóm trưởng  |
-|  2  |  Nguyễn Đức Phát  |   Thành viên  |
-|  3  |  Dương Thị Phương Thi  |   Thành viên  |
+|  1  |  Ngyễn Văn Vương   |   Nhóm trưởng  |
+|  2  |  Đặng Hữu Phúc  |   Thành viên  |
+|  3  |  Võ Minh Tính  |   Thành viên  |
 -----------------------------------------------
 ### Sử dụng 
+
+
  - .Net Framework version 4.8
+ - composede
+ - Xampp
+ - cloud
  - Visual studio 2022
+ - Visual code 
 -----------------------------------------------
 
 ### Chi tiết
@@ -66,86 +71,191 @@
 
 
 ## Chức năng
-#### WEDSITE
-<p>Tìm kiếm và hiện thi thông tin sách:</p>
+<h2>CHỨC NĂNG HỆ THỐNG WEB</h2>
+
+<h3>ADMIN:</h3>
 <ul>
-  <li>Tìm kiếm sách theo tên, tác giả, thể loại, từ khóa, v.v.</li>
-  <li>Hiển thị thông tin chi tiết của mỗi cuốn sách, bao gồm mô tả, tác giả, đánh giá, v.v.</li>
-</ul>
-<p>
-  Giỏ hàng, Mua sách và thanh toán:
-</p>
-<ul>
-  <li>Thêm sách vào giỏ hàng </li>
-  <li>Xem lại giỏ hàng trước khi tiến hành thanh toán</li>
-   <li>Hỗ trợ nhiều phương thức thanh toán an toàn như ví điện tử, v.v.</li>
-	<li>Hiển thị thông tin chi tiết của giỏ hàng và tổng số tiền.</li>
-</ul>
-<p>
- Quản lý thông tin tài khoản 
-</p>
-<ul>
-<li>
-    Đăng ký và đăng nhập tài khoản cho người dùng.
-  </li>
-  <li>Quản lý thông tin cá nhân, mật khẩu</li>
-  <li>Hiển thị danh sách các cuốn sách mà người dùng đã mua hoặc tải về.</li>
-<li>Đơn hàng của người dùng</li>
-<li>Hiện thị sách yêu thích</li>
-<li>Thông tin tài khoản</li>
- <li>Đổi mật khẩuh</li>
-<li>Thông tin khách hàng</li>
-<li>Người dùng có thể đánh giá và viết nhận xét về các cuốn sách.</li>
+    <li>COLOR - Thêm, xóa, sửa</li>
+    <li>SIZE - Thêm, xóa, sửa</li>
+    <li>CATEGORY - Thêm, xóa, sửa</li>
+    <li>PRODUCT 
+        <ul>
+            <li>Thêm, xóa, sửa</li>
+            <li>Thêm bằng file excel</li>
+            <li>Phân trang theo row - search</li>
+            <li>Quản lý chi tiết sản phẩm - thêm, xóa, sửa chi tiết sản phẩm, cập nhật số lượng tồn</li>
+        </ul>
+    </li>
+    <li>CUSTOMER
+        <ul>
+            <li>Thêm, xóa, sửa</li>
+            <li>Xem chi tiết giỏ hàng khách hàng</li>
+            <li>Cập nhật trạng thái tài khoản bị khóa</li>
+        </ul>
+    </li>
+    <li>ORDER
+        <ul>
+            <li>Xem chi tiết đơn hàng</li>
+            <li>Cập nhật trạng thái đơn hàng</li>
+            <li>Sắp xếp theo tăng dần và giảm dần theo thời gian đặt</li>
+            <li>Lọc theo trạng thái đơn hàng - hình thức thanh toán</li>
+            <li>Tìm kiếm theo số điện thoại và địa chỉ</li>
+        </ul>
+    </li>
+    <li>VOUCHER - Thêm, xóa, sửa</li>
+    <li>BÁO CÁO THỐNG KÊ
+        <ul>
+            <li>Tổng số đơn hàng</li>
+            <li>Tổng số lượng sản phẩm đã mua</li>
+            <li>Tổng doanh thu</li>
+            <li>Thống kê theo thời gian</li>
+        </ul>
+    </li>
 </ul>
 
-#### APP
+<h3>USER:</h3>
+<ul>
+    <li>TRANG HOME
+        <ul>
+            <li>Xem top 8 sản phẩm bán chạy nhất</li>
+            <li>Xem top 8 sản phẩm sale nhiều nhất</li>
+        </ul>
+    </li>
+    <li>TRANG PRODUCT
+        <ul>
+            <li>Xem tất cả sản phẩm</li>
+            <li>Tìm kiếm sản phẩm theo tên</li>
+            <li>Xem sản phẩm theo danh mục</li>
+        </ul>
+    </li>
+    <li>TRANG PRODUCT DETAIL
+        <ul>
+            <li>Xem chi tiết sản phẩm</li>
+            <li>Xem số lượng sản phẩm đã bán</li>
+            <li>Xem số lượt đánh giá sản phẩm</li>
+            <li>Xem đánh giá sản phẩm</li>
+            <li>Chọn màu sản phẩm theo kích thước</li>
+            <li>Thêm vào giỏ hàng (nếu đăng nhập thì lưu vào database, còn không đăng nhập thì lưu ở session)</li>
+        </ul>
+    </li>
+    <li>TRANG CART
+        <ul>
+            <li>Tự động cập nhật tiền khi tăng số lượng hoặc thêm sản phẩm</li>
+            <li>Cập nhật thông tin nhận hàng</li>
+            <li>Nhập mã voucher tự cập nhật lại số tiền (yêu cầu phải đăng nhập và lưu voucher về)</li>
+            <li>Apply Voucher thì giảm số lượng voucher</li>
+            <li>Mỗi voucher chỉ sử dụng 1 lần</li>
+            <li>Thanh toán sau khi nhận hàng và thanh toán bằng Momo (thông tin đơn hàng và chi tiết đơn hàng gửi về email)</li>
+            <li>Cập nhật số lượng tồn của chi tiết sản phẩm</li>
+        </ul>
+    </li>
+    <li>TRANG KIỂM TRA ĐƠN HÀNG
+        <ul>
+            <li>Xem đơn hàng theo số điện thoại (nếu chưa đăng nhập, trang này dành cho khách hàng vãng lai)</li>
+        </ul>
+    </li>
+    <li>TRANG VOUCHER - Lưu voucher về</li>
+    <li>TRANG MY PROFILE
+        <ul>
+            <li>Xem thông tin profile, cập nhật thông tin và đổi mật khẩu</li>
+        </ul>
+    </li>
+    <li>TRANG MY ORDER
+        <ul>
+            <li>Xem đơn đã đặt (cập nhật thông tin địa chỉ - hủy đơn hàng - xem chi tiết đơn hàng)</li>
+            <li>Xem đơn đang giao (xem chi tiết đơn hàng)</li>
+            <li>Xem đơn đã nhận (xem chi tiết đơn hàng - có thể feedback, đánh giá sản phẩm)</li>
+            <li>Xem đơn hủy (xem chi tiết đơn hàng)</li>
+        </ul>
+    </li>
+    <li>TRANG MY VOUCHER - Xem voucher đã lưu</li>
+    <li>TRANG LOGIN
+        <ul>
+            <li>Đăng nhập</li>
+            <li>Đăng ký</li>
+            <li>Quên mật khẩu (mật khẩu mới sẽ gửi về email)</li>
+        </ul>
+    </li>
+</ul>
 
-<p>
-Quản lý sách
-</p>
+<h2>CHỨC NĂNG HỆ THỐNG WINFORMS</h2>
+
+<h3>ADMIN:</h3>
 <ul>
-<li>Thêm và cập nhật sách</li>
-<li>Tra cứu thông tin sách</li>
+    <li>COLOR - Thêm, xóa, sửa</li>
+    <li>SIZE - Thêm, xóa, sửa</li>
+    <li>CATEGORY - Thêm, xóa, sửa</li>
+    <li>EMPLOYEES
+        <ul>
+            <li>Thêm, xóa, sửa nhân viên</li>
+            <li>Phân quyền</li>
+        </ul>
+    </li>
+    <li>PRODUCT
+        <ul>
+            <li>Thêm, xóa, sửa</li>
+            <li>Phân trang theo row - search</li>
+            <li>Quản lý chi tiết sản phẩm - thêm, xóa, sửa chi tiết sản phẩm, cập nhật số lượng tồn</li>
+        </ul>
+    </li>
+    <li>CUSTOMER
+        <ul>
+            <li>Thêm, xóa, sửa</li>
+            <li>Cập nhật trạng thái tài khoản bị khóa</li>
+        </ul>
+    </li>
+    <li>ORDER
+        <ul>
+            <li>Xem chi tiết đơn hàng</li>
+            <li>Cập nhật trạng thái đơn hàng</li>
+            <li>Sắp xếp theo tăng dần và giảm dần theo thời gian đặt</li>
+            <li>Lọc theo trạng thái đơn hàng - hình thức thanh toán</li>
+            <li>Tìm kiếm theo số điện thoại và địa chỉ</li>
+        </ul>
+    </li>
+    <li>VOUCHER - Thêm, xóa, sửa</li>
+    <li>BÁO CÁO THỐNG KÊ
+        <ul>
+            <li>Tổng số đơn hàng</li>
+            <li>Tổng số lượng sản phẩm đã mua</li>
+            <li>Tổng doanh thu</li>
+            <li>Thống kê theo thời gian</li>
+        </ul>
+    </li>
+    <li>POS
+        <ul>
+            <li>Bán sản phẩm cho khách hàng khi mua tại cửa hàng</li>
+            <li>Thanh toán bằng tiền mặt hoặc qua ngân hàng</li>
+        </ul>
+    </li>
 </ul>
-<p>
-Quản lý thể loại và nhà xuất bản
-</p>
+
+<h3>EMPLOYEES:</h3>
 <ul>
-<li>Thêm và cập nhật </li>
+    <li>PRODUCT - Xem số lượng sản phẩm còn lại trong kho</li>
+    <li>ORDER
+        <ul>
+            <li>Xem chi tiết đơn hàng</li>
+            <li>Cập nhật trạng thái đơn hàng</li>
+            <li>Sắp xếp theo tăng dần và giảm dần theo thời gian đặt</li>
+            <li>Lọc theo trạng thái đơn hàng - hình thức thanh toán</li>
+            <li>Tìm kiếm theo số điện thoại và địa chỉ</li>
+        </ul>
+    </li>
+    <li>POS
+        <ul>
+            <li>Bán sản phẩm cho khách hàng khi mua tại cửa hàng</li>
+            <li>Thanh toán bằng tiền mặt hoặc qua ngân hàng</li>
+        </ul>
+    </li>
+    <li>BÁO CÁO THỐNG KÊ
+        <ul>
+            <li>Tổng số đơn hàng</li>
+            <li>Tổng số lượng sản phẩm đã mua</li>
+            <li>Tổng doanh thu</li>
+            <li>Thống kê theo thời gian</li>
+        </ul>
+    </li>
 </ul>
-<p>
-Quản lý khách hàng
-</p>
-<ul>
-<li>Thêm và cập nhật </li>
-<li>Tra cứu thông tin khách hàng</li>
-</ul>
-<p>
-Quản lý tin tức
-</p>
-<ul>
-<li>Thêm và cập nhật </li>
-<li>Duyệt tin tức </li>
-</ul>
-<p>
-Quản lý nhân viên và chức vụ
-</p>
-<ul>
-<li>Thêm và cập nhật </li>
-<li> Phân quyền nhân viên tùy theo chức vụ</li>
-<li> Tra cứu thông tin của nhân viên </li></li>
-</ul>
-<p>
-Báo cáo
-</p>
-<ul>
-<li>Sách được mau nhiều nhất trong tháng </li>
-<li> Sách đuợc Thêm vào yêu thích nhiều nhất</li></li>
-</ul>
-<p>
-Thống kê</p>
-<ul>
-<li>Doanh thu </li>
-<li> Đơn hàng theo ngày theo tháng, theo năm</li></li>
-</ul>
+
 
