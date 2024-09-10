@@ -25,14 +25,19 @@
 -----------------------------------------------
 # Dự án
 
-## Hệ thống quản lý sách điện tử
+Hệ thống quản lý bán hàng shop thời trang
 
-<h5>Mô tả dự án: </h5>
-<p>Ebook là một hệ thống ứng dụng đa nền tảng cho phép người dùng đọc sách điện tử (ebook) trực tuyến. Hệ thống này sẽ mở ra khả năng đọc sách trực tuyến qua giao diện web, đồng thời cung cấp một ứng dụng tiện lợi để quản lý sách một cách hiệu quả.</p>
+Mô tả dự án:
 
-<p>Được truy cập thông qua mạng, người dùng sẽ có cơ hội trải nghiệm không gian đọc sách độc đáo với sự tiện ích và linh hoạt mà chỉ công nghệ có thể mang lại. Không còn cần phải mang theo sách giấy, không gian sách điện tử sẽ tiết kiệm không gian và mang đến trải nghiệm đọc sách linh hoạt hơn bao giờ hết. Từ những trang sách kinh điển cho đến những tác phẩm hiện đại, mọi thứ đều có thể được truy cập và đọc một cách thuận tiện. </p>
-<p>Song song với việc đọc sách trực tuyến, ứng dụng đi kèm cung cấp một giao diện quản lý tiện lợi. Người dùng có thể tổ chức và quản lý tài liệu sách của mình theo cách riêng biệt, từ việc đánh dấu, sắp xếp theo thể loại cho đến tìm kiếm nhanh bằng cách sử dụng các tiện ích tìm kiếm thông minh. Điều này mang lại sự tiện lợi và hiệu quả cho việc tìm kiếm và sử dụng tài liệu sách, từ đó khuyến khích sự học hỏi và nghiên cứu một cách linh hoạt và hiệu quả hơn.
-</p>
+Hệ thống quản lý bán hàng shop thời trang là một nền tảng đa chức năng được phát triển để phục vụ cho việc kinh doanh và quản lý các sản phẩm thời trang trực tuyến và tại cửa hàng. Hệ thống này bao gồm hai giao diện chính: một giao diện web dành cho khách hàng (user) và một giao diện quản trị (admin) để quản lý các sản phẩm, đơn hàng, khách hàng và các khía cạnh khác của cửa hàng.
+
+Với giao diện web dành cho khách hàng, người dùng có thể dễ dàng truy cập vào các sản phẩm thời trang như quần áo, giày dép, phụ kiện. Trang chủ sẽ hiển thị các sản phẩm nổi bật như top sản phẩm bán chạy và top sản phẩm đang giảm giá. Người dùng có thể tìm kiếm, xem chi tiết sản phẩm, đánh giá, chọn kích thước và màu sắc phù hợp. Hệ thống giỏ hàng được tối ưu hóa, cho phép khách hàng thêm sản phẩm, áp dụng voucher, và chọn phương thức thanh toán linh hoạt như thanh toán khi nhận hàng hoặc qua Momo. Ngoài ra, khách hàng có thể kiểm tra đơn hàng bằng số điện thoại mà không cần đăng nhập, hoặc quản lý đơn hàng đã đặt, đang giao, hay đơn hàng đã hủy thông qua tài khoản cá nhân.
+
+Giao diện quản trị cung cấp các chức năng mạnh mẽ để hỗ trợ quản lý toàn diện. Quản trị viên có thể thêm, sửa, xóa các thông tin về sản phẩm, kích thước, màu sắc, danh mục. Ngoài ra, hệ thống cho phép quản lý đơn hàng từ việc xem chi tiết, cập nhật trạng thái, sắp xếp và lọc đơn hàng theo nhiều tiêu chí khác nhau. Hệ thống quản lý khách hàng giúp quản lý thông tin, giỏ hàng và trạng thái tài khoản của khách hàng. Ngoài ra, các chức năng quản lý voucher, báo cáo thống kê về đơn hàng và doanh thu cũng được tích hợp, cung cấp cho admin những dữ liệu cần thiết để đánh giá tình hình kinh doanh và đưa ra quyết định kịp thời.
+
+Với giao diện WinForms dành cho quản trị viên và nhân viên tại cửa hàng, hệ thống còn hỗ trợ bán hàng trực tiếp thông qua POS. Nhân viên có thể dễ dàng tìm kiếm sản phẩm trong kho, thanh toán cho khách hàng bằng tiền mặt hoặc chuyển khoản. Cùng với đó, các báo cáo thống kê và quản lý đơn hàng, khách hàng đều được tự động hóa, mang lại sự tiện lợi và chính xác trong quá trình vận hành.
+
+Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời trang mà còn nâng cao trải nghiệm mua sắm của khách hàng, từ đó thúc đẩy hiệu quả kinh doanh cho cửa hàng.
 
 ### Yêu cầu 
 <p>AI: Gợi ý loại sách theo nội dung  </p>
