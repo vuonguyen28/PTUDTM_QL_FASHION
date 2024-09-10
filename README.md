@@ -52,141 +52,146 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 <p>Nghiệp vụ</p>
 
-<b>Bảng Phân Chia Công Việc - Web</b>
-    <table>
-        <thead>
-            <tr>
-                <th>STT</th>
-                <th>Nhiệm Vụ</th>
-                <th>Mô Tả Chức Năng</th>
-                <th>Thành Viên</th>
-                <th>Thời Gian Thực Tế</th>
-                <th>Trạng Thái</th>
-                <th>Ghi Chú</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1</td>
-                <td>Thêm, xóa, sửa Color (Admin)</td>
-                <td>Quản lý các màu sắc của sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Thêm, xóa, sửa Size (Admin)</td>
-                <td>Quản lý các kích cỡ của sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>Thêm, xóa, sửa Category (Admin)</td>
-                <td>Quản lý các danh mục sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>Thêm, xóa, sửa Product (Admin)</td>
-                <td>Quản lý thông tin sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>Thêm Product bằng file Excel</td>
-                <td>Nhập sản phẩm từ file Excel</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>Quản lý chi tiết sản phẩm</td>
-                <td>Cập nhật số lượng tồn, thêm, xóa, sửa chi tiết sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>7</td>
-                <td>Thêm, xóa, sửa Customer</td>
-                <td>Quản lý thông tin khách hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td>Xem chi tiết giỏ hàng khách hàng</td>
-                <td>Xem và quản lý giỏ hàng của khách hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>9</td>
-                <td>Cập nhật trạng thái tài khoản</td>
-                <td>Cập nhật trạng thái bị khóa của tài khoản khách hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>Xem chi tiết đơn hàng</td>
-                <td>Xem thông tin chi tiết của đơn hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>11</td>
-                <td>Cập nhật trạng thái đơn hàng</td>
-                <td>Thay đổi trạng thái của đơn hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>12</td>
-                <td>Vouching - Thêm, xóa, sửa</td>
-                <td>Quản lý mã giảm giá</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>13</td>
-                <td>Báo cáo thống kê</td>
-                <td>Tổng hợp thông tin đơn hàng, doanh thu, sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-        </tbody>
-    </table>
+<h2>1. Admin Panel</h2>
+<table>
+    <tr>
+        <th>UC</th>
+        <th>Tính năng</th>
+        <th>Người phụ trách</th>
+        <th>Ghi chú</th>
+    </tr>
+    <tr>
+        <td>UC1</td>
+        <td>COLOR - Thêm, xóa, sửa</td>
+        <td>Thành viên 1</td>
+        <td>Quản lý màu sắc cho sản phẩm</td>
+    </tr>
+    <tr>
+        <td>UC2</td>
+        <td>SIZE - Thêm, xóa, sửa</td>
+        <td>Thành viên 1</td>
+        <td>Quản lý kích thước sản phẩm</td>
+    </tr>
+    <tr>
+        <td>UC3</td>
+        <td>CATEGORY - Thêm, xóa, sửa</td>
+        <td>Thành viên 2</td>
+        <td>Quản lý danh mục sản phẩm</td>
+    </tr>
+    <tr>
+        <td>UC4</td>
+        <td>PRODUCT - Thêm, xóa, sửa sản phẩm, phân trang, tìm kiếm, nhập từ file Excel</td>
+        <td>Thành viên 2</td>
+        <td>Quản lý sản phẩm, chi tiết sản phẩm, cập nhật số lượng tồn</td>
+    </tr>
+    <tr>
+        <td>UC5</td>
+        <td>CUSTOMER - Thêm, xóa, sửa, xem giỏ hàng, khóa tài khoản</td>
+        <td>Thành viên 3</td>
+        <td>Quản lý thông tin khách hàng, trạng thái tài khoản</td>
+    </tr>
+    <tr>
+        <td>UC6</td>
+        <td>ORDER - Xem, cập nhật trạng thái, lọc, tìm kiếm đơn hàng</td>
+        <td>Thành viên 1</td>
+        <td>Quản lý đơn hàng, lọc và tìm kiếm đơn hàng</td>
+    </tr>
+    <tr>
+        <td>UC7</td>
+        <td>VOUCHER - Thêm, xóa, sửa voucher</td>
+        <td>Thành viên 2</td>
+        <td>Quản lý mã giảm giá</td>
+    </tr>
+    <tr>
+        <td>UC8</td>
+        <td>BÁO CÁO THỐNG KÊ - Tổng hợp đơn hàng, doanh thu, sản phẩm đã mua theo thời gian</td>
+        <td>Nhóm trưởng</td>
+        <td>Tạo báo cáo thống kê theo thời gian</td>
+    </tr>
+</table>
 
+<h2>2. User Panel</h2>
+<table>
+    <tr>
+        <th>UC</th>
+        <th>Tính năng</th>
+        <th>Người phụ trách</th>
+        <th>Ghi chú</th>
+    </tr>
+    <tr>
+        <td>UC9</td>
+        <td>TRANG HOME - Xem sản phẩm bán chạy, sale nhiều nhất</td>
+        <td>Thành viên 1</td>
+        <td>Hiển thị top 8 sản phẩm</td>
+    </tr>
+    <tr>
+        <td>UC10</td>
+        <td>TRANG PRODUCT - Xem tất cả sản phẩm, tìm kiếm theo tên, danh mục</td>
+        <td>Thành viên 2</td>
+        <td>Quản lý trang hiển thị sản phẩm và tìm kiếm</td>
+    </tr>
+    <tr>
+        <td>UC11</td>
+        <td>TRANG PRODUCT DETAIL - Xem chi tiết sản phẩm, đánh giá, chọn màu và kích thước</td>
+        <td>Thành viên 3</td>
+        <td>Quản lý thông tin sản phẩm chi tiết, đánh giá</td>
+    </tr>
+    <tr>
+        <td>UC12</td>
+        <td>TRANG CART - Cập nhật giỏ hàng, mã voucher, thanh toán</td>
+        <td>Nhóm trưởng</td>
+        <td>Quản lý giỏ hàng, tính tiền, voucher, thanh toán</td>
+    </tr>
+    <tr>
+        <td>UC13</td>
+        <td>TRANG KIỂM TRA ĐƠN HÀNG - Xem đơn hàng theo số điện thoại</td>
+        <td>Thành viên 1</td>
+        <td>Kiểm tra đơn hàng cho khách vãng lai</td>
+    </tr>
+    <tr>
+        <td>UC14</td>
+        <td>TRANG MY PROFILE - Xem và cập nhật thông tin cá nhân, đổi mật khẩu</td>
+        <td>Thành viên 2</td>
+        <td>Quản lý thông tin cá nhân của người dùng</td>
+    </tr>
+    <tr>
+        <td>UC15</td>
+        <td>TRANG MY ORDER - Xem và quản lý đơn hàng</td>
+        <td>Thành viên 3</td>
+        <td>Quản lý trạng thái đơn hàng, hủy, đánh giá sản phẩm</td>
+    </tr>
+    <tr>
+        <td>UC16</td>
+        <td>TRANG MY VOUCHER - Xem voucher đã lưu</td>
+        <td>Thành viên 1</td>
+        <td>Quản lý mã giảm giá người dùng đã lưu</td>
+    </tr>
+    <tr>
+        <td>UC17</td>
+        <td>TRANG LOGIN - Đăng nhập, đăng ký, quên mật khẩu</td>
+        <td>Nhóm trưởng</td>
+        <td>Quản lý xác thực người dùng</td>
+    </tr>
+</table>
 
+<h2>3. Backend và Database</h2>
+<table>
+    <tr>
+        <th>Công việc</th>
+        <th>Người phụ trách</th>
+        <th>Ghi chú</th>
+    </tr>
+    <tr>
+        <td>Thiết kế database</td>
+        <td>Nhóm trưởng</td>
+        <td>Phân tích và tạo cơ sở dữ liệu</td>
+    </tr>
+    <tr>
+        <td>Tích hợp thanh toán</td>
+        <td>Thành viên 1</td>
+        <td>Cập nhật và quản lý thông tin thanh toán</td>
+    </tr>
+</table>
 <h3>App: Winform </h3>
 <p>Ngôn ngữ: C# </p>
 
