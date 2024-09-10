@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\App_CNPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\gui\\product_gui\\form_productdetail_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\gui\\product_gui\\form_productdetail_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\gui\\product_gui\\form_productdetail_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\gui\\product_gui\\form_productdetail_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\gui\\product_gui\\form_productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\gui\\product_gui\\form_productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\gui\\product_gui\\form_productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\gui\\product_gui\\form_productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\gui\\product_gui\\form_productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\gui\\product_gui\\form_productquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\gui\\product_gui\\form_productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\gui\\product_gui\\form_productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\uc_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\uc_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\uc_productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\uc_productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\uc_productitempos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\uc_productitempos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\services\\color_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\services\\color_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_ProductDetail_POS.cs [Design]",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "RelativeDocumentMoniker": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs [Design]",
+              "RelativeToolTip": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:08:41.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_ProductDetail_POS.cs",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "RelativeDocumentMoniker": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "RelativeToolTip": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:10:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_ProductDetail.cs [Design]",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs",
+              "RelativeDocumentMoniker": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs [Design]",
+              "RelativeToolTip": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:08:40.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_ProductQuantity.cs [Design]",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs",
+              "RelativeDocumentMoniker": "Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs [Design]",
+              "RelativeToolTip": "Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:08:50.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_ProductQuantity.cs",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs",
+              "RelativeDocumentMoniker": "Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs",
+              "RelativeToolTip": "Project_App\\GUI\\Product_GUI\\Form_ProductQuantity.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:11:51.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_ProductDetail.cs",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs",
+              "RelativeDocumentMoniker": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs",
+              "RelativeToolTip": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAYwH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:10:58.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Uc_Image.cs [Design]",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\Uc_Image.cs",
+              "RelativeDocumentMoniker": "Project_App\\Uc_Image.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\Uc_Image.cs [Design]",
+              "RelativeToolTip": "Project_App\\Uc_Image.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:04:25.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Uc_ProductItem.cs [Design]",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\Uc_ProductItem.cs",
+              "RelativeDocumentMoniker": "Project_App\\Uc_ProductItem.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\Uc_ProductItem.cs [Design]",
+              "RelativeToolTip": "Project_App\\Uc_ProductItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:01:08.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Uc_ProductItemPos.cs [Design]",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\Uc_ProductItemPos.cs",
+              "RelativeDocumentMoniker": "Project_App\\Uc_ProductItemPos.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\Uc_ProductItemPos.cs [Design]",
+              "RelativeToolTip": "Project_App\\Uc_ProductItemPos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:00:52.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Color_Services.cs",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\Services\\Color_Services.cs",
+              "RelativeDocumentMoniker": "Project_App\\Services\\Color_Services.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\Services\\Color_Services.cs",
+              "RelativeToolTip": "Project_App\\Services\\Color_Services.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:06:51.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

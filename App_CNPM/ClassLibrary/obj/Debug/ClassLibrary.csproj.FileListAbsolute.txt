@@ -1,0 +1,13 @@
+D:\App_CNPM\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\App_CNPM\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\App_CNPM\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\App_CNPM\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\App_CNPM\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\App_CNPM\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\App_CNPM\ClassLibrary\obj\Debug\ClassLibrary.lable_timeNow.resources
+D:\App_CNPM\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.cache
+D:\App_CNPM\ClassLibrary\bin\Debug\CloudinaryDotNet.dll
+D:\App_CNPM\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\App_CNPM\ClassLibrary\bin\Debug\CloudinaryDotNet.xml
+D:\App_CNPM\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\App_CNPM\ClassLibrary\obj\Debug\ClassLib.939BCD28.Up2Date

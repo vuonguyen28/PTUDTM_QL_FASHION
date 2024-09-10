@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\App_CNPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|d:\\app_cnpm\\project_app\\gui\\product_gui\\form_productdetail_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8DD821-BAAA-48D1-BB59-3DA106EA0337}|Project_App\\Project_App.csproj|solutionrelative:project_app\\gui\\product_gui\\form_productdetail_pos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_ProductDetail_POS.cs",
+              "DocumentMoniker": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "RelativeDocumentMoniker": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "ToolTip": "D:\\App_CNPM\\Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "RelativeToolTip": "Project_App\\GUI\\Product_GUI\\Form_ProductDetail_POS.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:10:37.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
