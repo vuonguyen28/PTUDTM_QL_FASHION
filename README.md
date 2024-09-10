@@ -14,7 +14,7 @@ Sử dụng:
 - .Net Framework version 4.8
 - Composer version 2.7.6
 - PHP 8.2.12
-- Laravel 11
+- Laravel Framework 11.10.0
 - xampp - V3.3.0
 - cloudinary
 - Visual studio 2022
