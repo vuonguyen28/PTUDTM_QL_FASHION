@@ -9,18 +9,12 @@
 |  3  |  Võ Minh Tính  |   Thành viên  |
 -----------------------------------------------
 ### Sử dụng 
- - .Net Framework version 4.8
- - Composer version 2.7.6
- - PHP 8.2.12
- - Laravel 11
- - xampp - V3.3.0
- - cloudinary
- - Visual studio 2022
- - Visual code 
+
+
 -----------------------------------------------
 
 ### Chi tiết
-<img src="https://asset.cloudinary.com/dkcizqsb3/dfc4edbaba7453d63cc24ad1c1ccbbbd">
+![Chi tiết dự án](https://asset.cloudinary.com/dkcizqsb3/dfc4edbaba7453d63cc24ad1c1ccbbbd)
 
 -----------------------------------------------
 # Dự án
