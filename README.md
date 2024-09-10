@@ -11,7 +11,9 @@
 ### Sử dụng 
 
 
+  
  - .Net Framework version 4.8
+ - Laravel 11
  - Xampp
  - cloud
  - Visual studio 2022
@@ -40,8 +42,7 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 ### Yêu cầu 
 <p>AI: gợi ý sản phẩm phân cụm người dung </p>
-
-<p>Web: MVC ASP, LinQ</p>
+<p>Web: Laravel</p>
 <p>Ngôn ngữ: Javascript, C# </p>
 <p>Framework: Bootstrap</p>
 
