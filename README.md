@@ -12,7 +12,6 @@
 
 
  - .Net Framework version 4.8
- - composede
  - Xampp
  - cloud
  - Visual studio 2022
