@@ -20,7 +20,7 @@
 -----------------------------------------------
 
 ### Chi tiết
-<img src="https://drive.google.com/file/d/16w7dYIyOzkYJ_LcU1CgSo9IQ5QaU3Axl/view">
+<img src="https://asset.cloudinary.com/dkcizqsb3/dfc4edbaba7453d63cc24ad1c1ccbbbd">
 
 -----------------------------------------------
 # Dự án
