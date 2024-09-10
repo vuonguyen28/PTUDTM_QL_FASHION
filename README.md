@@ -40,8 +40,9 @@ Với giao diện WinForms dành cho quản trị viên và nhân viên tại c�
 Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời trang mà còn nâng cao trải nghiệm mua sắm của khách hàng, từ đó thúc đẩy hiệu quả kinh doanh cho cửa hàng.
 
 ### Yêu cầu 
+
+<h3>Web: Laravel</h3>
 <p>AI: gợi ý sản phẩm phân cụm người dung </p>
-<p>Web: Laravel</p>
 <p>Ngôn ngữ: Javascript, php ,sass, html/css </p>
 <p>Framework: Bootstrap</p>
 
