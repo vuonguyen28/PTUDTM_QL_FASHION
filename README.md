@@ -52,470 +52,262 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 <p>Nghiệp vụ</p>
 
-<h2>1. Admin Panel</h2>
-<table>
-    <tr>
-        <th>UC</th>
-        <th>Tính năng</th>
-        <th>Người phụ trách</th>
-        <th>Ghi chú</th>
-    </tr>
-    <tr>
-        <td>UC1</td>
-        <td>COLOR - Thêm, xóa, sửa</td>
-        <td>Thành viên 1</td>
-        <td>Quản lý màu sắc cho sản phẩm</td>
-    </tr>
-    <tr>
-        <td>UC2</td>
-        <td>SIZE - Thêm, xóa, sửa</td>
-        <td>Thành viên 1</td>
-        <td>Quản lý kích thước sản phẩm</td>
-    </tr>
-    <tr>
-        <td>UC3</td>
-        <td>CATEGORY - Thêm, xóa, sửa</td>
-        <td>Thành viên 2</td>
-        <td>Quản lý danh mục sản phẩm</td>
-    </tr>
-    <tr>
-        <td>UC4</td>
-        <td>PRODUCT - Thêm, xóa, sửa sản phẩm, phân trang, tìm kiếm, nhập từ file Excel</td>
-        <td>Thành viên 2</td>
-        <td>Quản lý sản phẩm, chi tiết sản phẩm, cập nhật số lượng tồn</td>
-    </tr>
-    <tr>
-        <td>UC5</td>
-        <td>CUSTOMER - Thêm, xóa, sửa, xem giỏ hàng, khóa tài khoản</td>
-        <td>Thành viên 3</td>
-        <td>Quản lý thông tin khách hàng, trạng thái tài khoản</td>
-    </tr>
-    <tr>
-        <td>UC6</td>
-        <td>ORDER - Xem, cập nhật trạng thái, lọc, tìm kiếm đơn hàng</td>
-        <td>Thành viên 1</td>
-        <td>Quản lý đơn hàng, lọc và tìm kiếm đơn hàng</td>
-    </tr>
-    <tr>
-        <td>UC7</td>
-        <td>VOUCHER - Thêm, xóa, sửa voucher</td>
-        <td>Thành viên 2</td>
-        <td>Quản lý mã giảm giá</td>
-    </tr>
-    <tr>
-        <td>UC8</td>
-        <td>BÁO CÁO THỐNG KÊ - Tổng hợp đơn hàng, doanh thu, sản phẩm đã mua theo thời gian</td>
-        <td>Nhóm trưởng</td>
-        <td>Tạo báo cáo thống kê theo thời gian</td>
-    </tr>
-</table>
+# Bảng Phân Công Công Việc
 
-<h2>2. User Panel</h2>
-<table>
-    <tr>
-        <th>UC</th>
-        <th>Tính năng</th>
-        <th>Người phụ trách</th>
-        <th>Ghi chú</th>
-    </tr>
-    <tr>
-        <td>UC9</td>
-        <td>TRANG HOME - Xem sản phẩm bán chạy, sale nhiều nhất</td>
-        <td>Thành viên 1</td>
-        <td>Hiển thị top 8 sản phẩm</td>
-    </tr>
-    <tr>
-        <td>UC10</td>
-        <td>TRANG PRODUCT - Xem tất cả sản phẩm, tìm kiếm theo tên, danh mục</td>
-        <td>Thành viên 2</td>
-        <td>Quản lý trang hiển thị sản phẩm và tìm kiếm</td>
-    </tr>
-    <tr>
-        <td>UC11</td>
-        <td>TRANG PRODUCT DETAIL - Xem chi tiết sản phẩm, đánh giá, chọn màu và kích thước</td>
-        <td>Thành viên 3</td>
-        <td>Quản lý thông tin sản phẩm chi tiết, đánh giá</td>
-    </tr>
-    <tr>
-        <td>UC12</td>
-        <td>TRANG CART - Cập nhật giỏ hàng, mã voucher, thanh toán</td>
-        <td>Nhóm trưởng</td>
-        <td>Quản lý giỏ hàng, tính tiền, voucher, thanh toán</td>
-    </tr>
-    <tr>
-        <td>UC13</td>
-        <td>TRANG KIỂM TRA ĐƠN HÀNG - Xem đơn hàng theo số điện thoại</td>
-        <td>Thành viên 1</td>
-        <td>Kiểm tra đơn hàng cho khách vãng lai</td>
-    </tr>
-    <tr>
-        <td>UC14</td>
-        <td>TRANG MY PROFILE - Xem và cập nhật thông tin cá nhân, đổi mật khẩu</td>
-        <td>Thành viên 2</td>
-        <td>Quản lý thông tin cá nhân của người dùng</td>
-    </tr>
-    <tr>
-        <td>UC15</td>
-        <td>TRANG MY ORDER - Xem và quản lý đơn hàng</td>
-        <td>Thành viên 3</td>
-        <td>Quản lý trạng thái đơn hàng, hủy, đánh giá sản phẩm</td>
-    </tr>
-    <tr>
-        <td>UC16</td>
-        <td>TRANG MY VOUCHER - Xem voucher đã lưu</td>
-        <td>Thành viên 1</td>
-        <td>Quản lý mã giảm giá người dùng đã lưu</td>
-    </tr>
-    <tr>
-        <td>UC17</td>
-        <td>TRANG LOGIN - Đăng nhập, đăng ký, quên mật khẩu</td>
-        <td>Nhóm trưởng</td>
-        <td>Quản lý xác thực người dùng</td>
-    </tr>
-</table>
+## 1. Admin Panel
 
-<h2>3. Backend và Database</h2>
-<table>
-    <tr>
-        <th>Công việc</th>
-        <th>Người phụ trách</th>
-        <th>Ghi chú</th>
-    </tr>
-    <tr>
-        <td>Thiết kế database</td>
-        <td>Nhóm trưởng</td>
-        <td>Phân tích và tạo cơ sở dữ liệu</td>
-    </tr>
-    <tr>
-        <td>Tích hợp thanh toán</td>
-        <td>Thành viên 1</td>
-        <td>Cập nhật và quản lý thông tin thanh toán</td>
-    </tr>
-</table>
+| UC  | Tính năng                                                                 | Người phụ trách | Ghi chú                                           | Đã hoàn thành |
+|-----|---------------------------------------------------------------------------|------------------|--------------------------------------------------|---------------|
+| UC1 | COLOR - Thêm, xóa, sửa                                                     | Thành viên A     | Quản lý màu sắc cho sản phẩm                     | Chưa          |
+| UC2 | SIZE - Thêm, xóa, sửa                                                      | Thành viên A     | Quản lý kích thước sản phẩm                      | Chưa          |
+| UC3 | CATEGORY - Thêm, xóa, sửa                                                   | Thành viên B     | Quản lý danh mục sản phẩm                        | Chưa          |
+| UC4 | PRODUCT - Thêm, xóa, sửa                                                    | Thành viên B     | Quản lý sản phẩm, chi tiết sản phẩm              | Chưa          |
+| UC5 | PRODUCT - Thêm bằng file excel                                               | Thành viên B     | Nhập sản phẩm từ file Excel                      | Chưa          |
+| UC6 | PRODUCT - Phân trang theo row, search                                        | Thành viên B     | Tìm kiếm, phân trang sản phẩm                    | Chưa          |
+| UC7 | Quản lý chi tiết sản phẩm - Thêm, xóa, sửa, cập nhật số lượng tồn          | Thành viên B     | Cập nhật chi tiết sản phẩm và số lượng tồn       | Chưa          |
+| UC8 | CUSTOMER - Thêm, xóa, sửa                                                    | Thành viên C     | Quản lý thông tin khách hàng                     | Chưa          |
+| UC9 | CUSTOMER - Xem chi tiết giỏ hàng khách hàng                                 | Thành viên C     | Xem giỏ hàng khách hàng                          | Chưa          |
+| UC10| CUSTOMER - Cập nhật trạng thái tài khoản bị khóa                           | Thành viên C     | Khóa/mở khóa tài khoản khách hàng                | Chưa          |
+| UC11| ORDER - Xem chi tiết đơn hàng                                               | Thành viên A     | Quản lý thông tin chi tiết đơn hàng              | Chưa          |
+| UC12| ORDER - Cập nhật trạng thái đơn hàng                                        | Thành viên A     | Cập nhật trạng thái giao hàng                    | Chưa          |
+| UC13| ORDER - Sắp xếp theo thời gian đặt                                          | Thành viên A     | Sắp xếp đơn hàng theo thời gian                  | Chưa          |
+| UC14| ORDER - Lọc theo trạng thái, hình thức thanh toán                          | Thành viên A     | Lọc đơn hàng theo trạng thái                    | Chưa          |
+| UC15| ORDER - Tìm kiếm theo số điện thoại và địa chỉ                             | Thành viên A     | Tìm kiếm đơn hàng                                | Chưa          |
+| UC16| VOUCHER - Thêm, xóa, sửa                                                     | Thành viên B     | Quản lý voucher                                  | Chưa          |
+| UC17| BÁO CÁO THỐNG KÊ - Tổng số đơn hàng                                         | Thành viên D     | Thống kê tổng số đơn hàng                        | Chưa          |
+| UC18| BÁO CÁO THỐNG KÊ - Tổng số lượng sản phẩm đã mua                            | Thành viên D     | Thống kê tổng số sản phẩm đã mua                 | Chưa          |
+| UC19| BÁO CÁO THỐNG KÊ - Tổng doanh thu                                           | Thành viên D     | Thống kê tổng doanh thu                          | Chưa          |
+| UC20| BÁO CÁO THỐNG KÊ - Theo thời gian                                           | Thành viên D     | Thống kê theo thời gian                          | Chưa          |
+
+---
+
+## 2. User Panel
+
+| UC  | Tính năng                                                                 | Người phụ trách | Ghi chú                                           | Đã hoàn thành |
+|-----|---------------------------------------------------------------------------|------------------|--------------------------------------------------|---------------|
+| UC21| TRANG HOME - Xem top 8 sản phẩm bán chạy                                    | Thành viên E     | Hiển thị sản phẩm bán chạy                       | Chưa          |
+| UC22| TRANG HOME - Xem top 8 sản phẩm sale                                        | Thành viên E     | Hiển thị sản phẩm giảm giá                       | Chưa          |
+| UC23| TRANG PRODUCT - Xem tất cả sản phẩm                                         | Thành viên F     | Hiển thị danh sách sản phẩm                      | Chưa          |
+| UC24| TRANG PRODUCT - Tìm kiếm sản phẩm theo tên                                 | Thành viên F     | Tìm kiếm sản phẩm theo tên                       | Chưa          |
+| UC25| TRANG PRODUCT - Xem sản phẩm theo danh mục                                 | Thành viên F     | Hiển thị sản phẩm theo danh mục                  | Chưa          |
+| UC26| TRANG PRODUCT DETAIL - Xem chi tiết sản phẩm                               | Thành viên G     | Hiển thị thông tin chi tiết sản phẩm             | Chưa          |
+| UC27| TRANG PRODUCT DETAIL - Xem số lượng sản phẩm đã bán                        | Thành viên G     | Thống kê số lượng sản phẩm đã bán                | Chưa          |
+| UC28| TRANG PRODUCT DETAIL - Xem số lượt đánh giá sản phẩm                       | Thành viên G     | Thống kê lượt đánh giá                           | Chưa          |
+| UC29| TRANG PRODUCT DETAIL - Xem đánh giá sản phẩm                               | Thành viên G     | Hiển thị đánh giá sản phẩm                       | Chưa          |
+| UC30| TRANG PRODUCT DETAIL - Chọn màu sản phẩm theo kích thước                   | Thành viên G     | Lựa chọn màu và kích thước sản phẩm              | Chưa          |
+| UC31| TRANG CART - Tự động cập nhật tiền khi thêm sản phẩm                       | Thành viên H     | Tự động tính toán lại tổng tiền                 | Chưa          |
+| UC32| TRANG CART - Cập nhật thông tin nhận hàng                                  | Thành viên H     | Cập nhật thông tin nhận hàng                     | Chưa          |
+| UC33| TRANG CART - Nhập mã voucher, tự cập nhật số tiền                         | Thành viên H     | Áp dụng mã giảm giá                              | Chưa          |
+| UC34| TRANG CART - Thanh toán sau khi nhận hàng hoặc bằng Momo                    | Thành viên H     | Tích hợp thanh toán Momo và kiểm tra đơn hàng    | Chưa          |
+| UC35| TRANG KIỂM TRA ĐƠN HÀNG - Xem đơn hàng theo số điện thoại                   | Thành viên E     | Kiểm tra đơn hàng cho khách hàng chưa đăng nhập | Chưa          |
+| UC36| TRANG VOUCHER - Lưu voucher về                                              | Thành viên F     | Lưu thông tin mã giảm giá của người dùng        | Chưa          |
+| UC37| TRANG MY PROFILE - Xem, cập nhật thông tin và đổi mật khẩu                | Thành viên G     | Quản lý thông tin cá nhân người dùng            | Chưa          |
+| UC38| TRANG MY ORDER - Xem đơn đã đặt, đơn đang giao, đơn đã nhận, đơn hủy      | Thành viên H     | Hiển thị trạng thái đơn hàng của người dùng     | Chưa          |
+| UC39| TRANG MY VOUCHER - Xem voucher đã lưu                                       | Thành viên F     | Hiển thị các voucher đã lưu của người dùng      | Chưa          |
+| UC40| TRANG LOGIN - Đăng nhập, đăng ký, quên mật khẩu                           | Thành viên E     | Quản lý xác thực người dùng                     | Chưa          |
+
+---
+
+## 3. Backend & Database
+
+| Công việc                    | Người phụ trách | Ghi chú                                        | Đã hoàn thành |
+|------------------------------|------------------|------------------------------------------------|---------------|
+| Thiết kế Database            | Thành viên D     | Thiết kế cấu trúc cơ sở dữ liệu                 | Chưa          |
+| Tích hợp API Backend          | Thành viên G, Thành viên H | Xây dựng API cho hệ thống                      | Chưa          |
+| Tích hợp thanh toán Momo      | Thành viên H     | Cấu hình thanh toán Momo                       | Chưa          |
+
 <h3>App: Winform </h3>
 <p>Ngôn ngữ: C# </p>
 
-<p>Bảng Phân Chia Công Việc - WinForms</p>
-    <table>
-        <thead>
-            <tr>
-                <th>STT</th>
-                <th>Nhiệm Vụ</th>
-                <th>Mô Tả Chức Năng</th>
-                <th>Thành Viên</th>
-                <th>Thời Gian Thực Tế</th>
-                <th>Trạng Thái</th>
-                <th>Ghi Chú</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1</td>
-                <td>Thêm, xóa, sửa Color (Admin)</td>
-                <td>Quản lý các màu sắc của sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Thêm, xóa, sửa Size (Admin)</td>
-                <td>Quản lý các kích cỡ của sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>Thêm, xóa, sửa Category (Admin)</td>
-                <td>Quản lý các danh mục sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>Thêm, xóa, sửa Product (Admin)</td>
-                <td>Quản lý thông tin sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>Quản lý chi tiết sản phẩm</td>
-                <td>Cập nhật số lượng tồn, thêm, xóa, sửa chi tiết sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>Thêm, xóa, sửa Customer</td>
-                <td>Quản lý thông tin khách hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>7</td>
-                <td>Cập nhật trạng thái tài khoản</td>
-                <td>Cập nhật trạng thái bị khóa của tài khoản khách hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td>Xem chi tiết đơn hàng</td>
-                <td>Xem thông tin chi tiết của đơn hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>9</td>
-                <td>Cập nhật trạng thái đơn hàng</td>
-                <td>Thay đổi trạng thái của đơn hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>Vouching - Thêm, xóa, sửa</td>
-                <td>Quản lý mã giảm giá</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>11</td>
-                <td>Báo cáo thống kê</td>
-                <td>Tổng hợp thông tin đơn hàng, doanh thu, sản phẩm</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>12</td>
-                <td>Bán hàng (POS)</td>
-                <td>Xử lý giao dịch bán hàng tại cửa hàng</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-            <tr>
-                <td>13</td>
-                <td>Quản lý nhân viên</td>
-                <td>Thêm, xóa, sửa thông tin nhân viên và phân quyền</td>
-                <td>[Tên Thành Viên]</td>
-                <td>[Ngày/Tháng/Năm]</td>
-                <td>Chưa Hoàn Thành</td>
-                <td>[Ghi chú thêm]</td>
-            </tr>
-        </tbody>
-    </table>
+# Bản Phân Công Công Việc
+
+## ADMIN
+
+| Tính năng                          | Người phụ trách | Ghi chú                                 | Đã hoàn thành |
+|------------------------------------|------------------|----------------------------------------|---------------|
+| **COLOR** - Thêm, xóa, sửa          | Nhân viên A      | Quản lý màu sắc sản phẩm                | Chưa          |
+| **SIZE** - Thêm, xóa, sửa           | Nhân viên A      | Quản lý kích thước sản phẩm             | Chưa          |
+| **CATEGORY** - Thêm, xóa, sửa       | Nhân viên B      | Quản lý danh mục sản phẩm               | Chưa          |
+| **EMPLOYEES**                       |                  |                                        |               |
+| - Thêm, xóa, sửa nhân viên          | Nhân viên C      | Quản lý thông tin nhân viên             | Chưa          |
+| - Phân quyền                        | Nhân viên C      | Quản lý phân quyền nhân viên            | Chưa          |
+| **PRODUCT**                        |                  |                                        |               |
+| - Thêm, xóa, sửa                    | Nhân viên D      | Quản lý thông tin sản phẩm              | Chưa          |
+| - Phân trang theo row - search      | Nhân viên D      | Tìm kiếm và phân trang sản phẩm         | Chưa          |
+| - Quản lý chi tiết sản phẩm         | Nhân viên D      | Cập nhật chi tiết và số lượng tồn       | Chưa          |
+| **CUSTOMER**                       |                  |                                        |               |
+| - Thêm, xóa, sửa                    | Nhân viên E      | Quản lý thông tin khách hàng            | Chưa          |
+| - Cập nhật trạng thái tài khoản bị khóa | Nhân viên E  | Khóa/mở khóa tài khoản khách hàng       | Chưa          |
+| **ORDER**                          |                  |                                        |               |
+| - Xem chi tiết đơn hàng             | Nhân viên F      | Quản lý thông tin chi tiết đơn hàng     | Chưa          |
+| - Cập nhật trạng thái đơn hàng      | Nhân viên F      | Cập nhật trạng thái đơn hàng            | Chưa          |
+| - Sắp xếp theo thời gian đặt        | Nhân viên F      | Sắp xếp đơn hàng theo thời gian         | Chưa          |
+| - Lọc theo trạng thái và hình thức thanh toán | Nhân viên F | Lọc đơn hàng theo trạng thái và thanh toán | Chưa          |
+| - Tìm kiếm theo số điện thoại và địa chỉ | Nhân viên F | Tìm kiếm đơn hàng theo số điện thoại và địa chỉ | Chưa          |
+| **VOUCHER**                        | Nhân viên G      | Quản lý voucher                         | Chưa          |
+| **BÁO CÁO THỐNG KÊ**               |                  |                                        |               |
+| - Tổng số đơn hàng                  | Nhân viên H      | Thống kê tổng số đơn hàng               | Chưa          |
+| - Tổng số lượng sản phẩm đã mua     | Nhân viên H      | Thống kê tổng số sản phẩm đã mua        | Chưa          |
+| - Tổng doanh thu                    | Nhân viên H      | Thống kê tổng doanh thu                 | Chưa          |
+| - Thống kê theo thời gian           | Nhân viên H      | Thống kê theo thời gian                 | Chưa          |
+| **POS**                            |                  |                                        |               |
+| - Bán sản phẩm cho khách hàng       | Nhân viên I      | Xử lý bán hàng tại cửa hàng             | Chưa          |
+| - Thanh toán bằng tiền mặt hoặc qua ngân hàng | Nhân viên I | Xử lý thanh toán tiền mặt hoặc ngân hàng | Chưa          |
+
+## EMPLOYEES
+
+| Tính năng                          | Người phụ trách | Ghi chú                                 | Đã hoàn thành |
+|------------------------------------|------------------|----------------------------------------|---------------|
+| **PRODUCT** - Xem số lượng sản phẩm còn lại trong kho | Nhân viên J      | Kiểm tra số lượng sản phẩm trong kho   | Chưa          |
+| **ORDER**                          |                  |                                        |               |
+| - Xem chi tiết đơn hàng             | Nhân viên K      | Xem thông tin chi tiết đơn hàng        | Chưa          |
+| - Cập nhật trạng thái đơn hàng      | Nhân viên K      | Cập nhật trạng thái đơn hàng           | Chưa          |
+| - Sắp xếp theo thời gian đặt        | Nhân viên K      | Sắp xếp đơn hàng theo thời gian        | Chưa          |
+| - Lọc theo trạng thái và hình thức thanh toán | Nhân viên K | Lọc đơn hàng theo trạng thái và hình thức thanh toán | Chưa          |
+| - Tìm kiếm theo số điện thoại và địa chỉ | Nhân viên K | Tìm kiếm đơn hàng theo số điện thoại và địa chỉ | Chưa          |
+| **POS**                            |                  |                                        |               |
+| - Bán sản phẩm cho khách hàng       | Nhân viên L      | Xử lý bán hàng tại cửa hàng            | Chưa          |
+| - Thanh toán bằng tiền mặt hoặc qua ngân hàng | Nhân viên L | Xử lý thanh toán tiền mặt hoặc ngân hàng | Chưa          |
+| **BÁO CÁO THỐNG KÊ**               |                  |                                        |               |
+| - Tổng số đơn hàng                  | Nhân viên L      | Thống kê tổng số đơn hàng              | Chưa          |
+| - Tổng số lượng sản phẩm đã mua     | Nhân viên L      | Thống kê tổng số sản phẩm đã mua       | Chưa          |
+| - Tổng doanh thu                    | Nhân viên L      | Thống kê tổng doanh thu                | Chưa          |
+| - Thống kê theo thời gian           | Nhân viên L      | Thống kê theo thời gian                | Chưa          |
 
 
-## Chức năng
-<h2>CHỨC NĂNG HỆ THỐNG WEB</h2>
 
-<h3>ADMIN:</h3>
-<ul>
-    <li>COLOR - Thêm, xóa, sửa</li>
-    <li>SIZE - Thêm, xóa, sửa</li>
-    <li>CATEGORY - Thêm, xóa, sửa</li>
-    <li>PRODUCT 
-        <ul>
-            <li>Thêm, xóa, sửa</li>
-            <li>Thêm bằng file excel</li>
-            <li>Phân trang theo row - search</li>
-            <li>Quản lý chi tiết sản phẩm - thêm, xóa, sửa chi tiết sản phẩm, cập nhật số lượng tồn</li>
-        </ul>
-    </li>
-    <li>CUSTOMER
-        <ul>
-            <li>Thêm, xóa, sửa</li>
-            <li>Xem chi tiết giỏ hàng khách hàng</li>
-            <li>Cập nhật trạng thái tài khoản bị khóa</li>
-        </ul>
-    </li>
-    <li>ORDER
-        <ul>
-            <li>Xem chi tiết đơn hàng</li>
-            <li>Cập nhật trạng thái đơn hàng</li>
-            <li>Sắp xếp theo tăng dần và giảm dần theo thời gian đặt</li>
-            <li>Lọc theo trạng thái đơn hàng - hình thức thanh toán</li>
-            <li>Tìm kiếm theo số điện thoại và địa chỉ</li>
-        </ul>
-    </li>
-    <li>VOUCHER - Thêm, xóa, sửa</li>
-    <li>BÁO CÁO THỐNG KÊ
-        <ul>
-            <li>Tổng số đơn hàng</li>
-            <li>Tổng số lượng sản phẩm đã mua</li>
-            <li>Tổng doanh thu</li>
-            <li>Thống kê theo thời gian</li>
-        </ul>
-    </li>
-</ul>
 
-<h3>USER:</h3>
-<ul>
-    <li>TRANG HOME
-        <ul>
-            <li>Xem top 8 sản phẩm bán chạy nhất</li>
-            <li>Xem top 8 sản phẩm sale nhiều nhất</li>
-        </ul>
-    </li>
-    <li>TRANG PRODUCT
-        <ul>
-            <li>Xem tất cả sản phẩm</li>
-            <li>Tìm kiếm sản phẩm theo tên</li>
-            <li>Xem sản phẩm theo danh mục</li>
-        </ul>
-    </li>
-    <li>TRANG PRODUCT DETAIL
-        <ul>
-            <li>Xem chi tiết sản phẩm</li>
-            <li>Xem số lượng sản phẩm đã bán</li>
-            <li>Xem số lượt đánh giá sản phẩm</li>
-            <li>Xem đánh giá sản phẩm</li>
-            <li>Chọn màu sản phẩm theo kích thước</li>
-            <li>Thêm vào giỏ hàng (nếu đăng nhập thì lưu vào database, còn không đăng nhập thì lưu ở session)</li>
-        </ul>
-    </li>
-    <li>TRANG CART
-        <ul>
-            <li>Tự động cập nhật tiền khi tăng số lượng hoặc thêm sản phẩm</li>
-            <li>Cập nhật thông tin nhận hàng</li>
-            <li>Nhập mã voucher tự cập nhật lại số tiền (yêu cầu phải đăng nhập và lưu voucher về)</li>
-            <li>Apply Voucher thì giảm số lượng voucher</li>
-            <li>Mỗi voucher chỉ sử dụng 1 lần</li>
-            <li>Thanh toán sau khi nhận hàng và thanh toán bằng Momo (thông tin đơn hàng và chi tiết đơn hàng gửi về email)</li>
-            <li>Cập nhật số lượng tồn của chi tiết sản phẩm</li>
-        </ul>
-    </li>
-    <li>TRANG KIỂM TRA ĐƠN HÀNG
-        <ul>
-            <li>Xem đơn hàng theo số điện thoại (nếu chưa đăng nhập, trang này dành cho khách hàng vãng lai)</li>
-        </ul>
-    </li>
-    <li>TRANG VOUCHER - Lưu voucher về</li>
-    <li>TRANG MY PROFILE
-        <ul>
-            <li>Xem thông tin profile, cập nhật thông tin và đổi mật khẩu</li>
-        </ul>
-    </li>
-    <li>TRANG MY ORDER
-        <ul>
-            <li>Xem đơn đã đặt (cập nhật thông tin địa chỉ - hủy đơn hàng - xem chi tiết đơn hàng)</li>
-            <li>Xem đơn đang giao (xem chi tiết đơn hàng)</li>
-            <li>Xem đơn đã nhận (xem chi tiết đơn hàng - có thể feedback, đánh giá sản phẩm)</li>
-            <li>Xem đơn hủy (xem chi tiết đơn hàng)</li>
-        </ul>
-    </li>
-    <li>TRANG MY VOUCHER - Xem voucher đã lưu</li>
-    <li>TRANG LOGIN
-        <ul>
-            <li>Đăng nhập</li>
-            <li>Đăng ký</li>
-            <li>Quên mật khẩu (mật khẩu mới sẽ gửi về email)</li>
-        </ul>
-    </li>
-</ul>
+## Chức năng hệ thống
 
-<h2>CHỨC NĂNG HỆ THỐNG WINFORMS</h2>
+### CHỨC NĂNG HỆ THỐNG WEB
 
-<h3>ADMIN:</h3>
-<ul>
-    <li>COLOR - Thêm, xóa, sửa</li>
-    <li>SIZE - Thêm, xóa, sửa</li>
-    <li>CATEGORY - Thêm, xóa, sửa</li>
-    <li>EMPLOYEES
-        <ul>
-            <li>Thêm, xóa, sửa nhân viên</li>
-            <li>Phân quyền</li>
-        </ul>
-    </li>
-    <li>PRODUCT
-        <ul>
-            <li>Thêm, xóa, sửa</li>
-            <li>Phân trang theo row - search</li>
-            <li>Quản lý chi tiết sản phẩm - thêm, xóa, sửa chi tiết sản phẩm, cập nhật số lượng tồn</li>
-        </ul>
-    </li>
-    <li>CUSTOMER
-        <ul>
-            <li>Thêm, xóa, sửa</li>
-            <li>Cập nhật trạng thái tài khoản bị khóa</li>
-        </ul>
-    </li>
-    <li>ORDER
-        <ul>
-            <li>Xem chi tiết đơn hàng</li>
-            <li>Cập nhật trạng thái đơn hàng</li>
-            <li>Sắp xếp theo tăng dần và giảm dần theo thời gian đặt</li>
-            <li>Lọc theo trạng thái đơn hàng - hình thức thanh toán</li>
-            <li>Tìm kiếm theo số điện thoại và địa chỉ</li>
-        </ul>
-    </li>
-    <li>VOUCHER - Thêm, xóa, sửa</li>
-    <li>BÁO CÁO THỐNG KÊ
-        <ul>
-            <li>Tổng số đơn hàng</li>
-            <li>Tổng số lượng sản phẩm đã mua</li>
-            <li>Tổng doanh thu</li>
-            <li>Thống kê theo thời gian</li>
-        </ul>
-    </li>
-    <li>POS
-        <ul>
-            <li>Bán sản phẩm cho khách hàng khi mua tại cửa hàng</li>
-            <li>Thanh toán bằng tiền mặt hoặc qua ngân hàng</li>
-        </ul>
-    </li>
-</ul>
+#### ADMIN:
+- **COLOR**
+  - Thêm, xóa, sửa
+- **SIZE**
+  - Thêm, xóa, sửa
+- **CATEGORY**
+  - Thêm, xóa, sửa
+- **PRODUCT**
+  - Thêm, xóa, sửa
+  - Thêm bằng file Excel
+  - Phân trang theo hàng - tìm kiếm
+  - Quản lý chi tiết sản phẩm
+    - Thêm, xóa, sửa chi tiết sản phẩm
+    - Cập nhật số lượng tồn
+- **CUSTOMER**
+  - Thêm, xóa, sửa
+  - Xem chi tiết giỏ hàng khách hàng
+  - Cập nhật trạng thái tài khoản bị khóa
+- **ORDER**
+  - Xem chi tiết đơn hàng
+  - Cập nhật trạng thái đơn hàng
+  - Sắp xếp theo thời gian đặt (tăng dần và giảm dần)
+  - Lọc theo trạng thái đơn hàng và hình thức thanh toán
+  - Tìm kiếm theo số điện thoại và địa chỉ
+- **VOUCHER**
+  - Thêm, xóa, sửa
+- **BÁO CÁO THỐNG KÊ**
+  - Tổng số đơn hàng
+  - Tổng số lượng sản phẩm đã mua
+  - Tổng doanh thu
+  - Thống kê theo thời gian
 
-<h3>EMPLOYEES:</h3>
-<ul>
-    <li>PRODUCT - Xem số lượng sản phẩm còn lại trong kho</li>
-    <li>ORDER
-        <ul>
-            <li>Xem chi tiết đơn hàng</li>
-            <li>Cập nhật trạng thái đơn hàng</li>
-            <li>Sắp xếp theo tăng dần và giảm dần theo thời gian đặt</li>
-            <li>Lọc theo trạng thái đơn hàng - hình thức thanh toán</li>
-            <li>Tìm kiếm theo số điện thoại và địa chỉ</li>
-        </ul>
-    </li>
-    <li>POS
-        <ul>
-            <li>Bán sản phẩm cho khách hàng khi mua tại cửa hàng</li>
-            <li>Thanh toán bằng tiền mặt hoặc qua ngân hàng</li>
-        </ul>
-    </li>
-    <li>BÁO CÁO THỐNG KÊ
-        <ul>
-            <li>Tổng số đơn hàng</li>
-            <li>Tổng số lượng sản phẩm đã mua</li>
-            <li>Tổng doanh thu</li>
-            <li>Thống kê theo thời gian</li>
-        </ul>
-    </li>
-</ul>
+#### USER:
+- **TRANG HOME**
+  - Xem top 8 sản phẩm bán chạy nhất
+  - Xem top 8 sản phẩm sale nhiều nhất
+- **TRANG PRODUCT**
+  - Xem tất cả sản phẩm
+  - Tìm kiếm sản phẩm theo tên
+  - Xem sản phẩm theo danh mục
+- **TRANG PRODUCT DETAIL**
+  - Xem chi tiết sản phẩm
+  - Xem số lượng sản phẩm đã bán
+  - Xem số lượt đánh giá sản phẩm
+  - Xem đánh giá sản phẩm
+  - Chọn màu sản phẩm theo kích thước
+  - Thêm vào giỏ hàng (lưu vào database nếu đăng nhập, lưu ở session nếu không đăng nhập)
+- **TRANG CART**
+  - Tự động cập nhật tiền khi tăng số lượng hoặc thêm sản phẩm
+  - Cập nhật thông tin nhận hàng
+  - Nhập mã voucher để tự cập nhật lại số tiền (yêu cầu đăng nhập và lưu voucher)
+  - Áp dụng voucher giảm số lượng voucher
+  - Mỗi voucher chỉ sử dụng 1 lần
+  - Thanh toán sau khi nhận hàng và thanh toán bằng Momo (thông tin đơn hàng gửi về email)
+  - Cập nhật số lượng tồn của chi tiết sản phẩm
+- **TRANG KIỂM TRA ĐƠN HÀNG**
+  - Xem đơn hàng theo số điện thoại (dành cho khách hàng vãng lai nếu chưa đăng nhập)
+- **TRANG VOUCHER**
+  - Lưu voucher về
+- **TRANG MY PROFILE**
+  - Xem thông tin profile, cập nhật thông tin và đổi mật khẩu
+- **TRANG MY ORDER**
+  - Xem đơn đã đặt (cập nhật thông tin địa chỉ, hủy đơn hàng, xem chi tiết đơn hàng)
+  - Xem đơn đang giao (xem chi tiết đơn hàng)
+  - Xem đơn đã nhận (xem chi tiết đơn hàng, feedback và đánh giá sản phẩm)
+  - Xem đơn hủy (xem chi tiết đơn hàng)
+- **TRANG MY VOUCHER**
+  - Xem voucher đã lưu
+- **TRANG LOGIN**
+  - Đăng nhập
+  - Đăng ký
+  - Quên mật khẩu (mật khẩu mới gửi về email)
+
+### CHỨC NĂNG HỆ THỐNG WINFORMS
+
+#### ADMIN:
+- **COLOR**
+  - Thêm, xóa, sửa
+- **SIZE**
+  - Thêm, xóa, sửa
+- **CATEGORY**
+  - Thêm, xóa, sửa
+- **EMPLOYEES**
+  - Thêm, xóa, sửa nhân viên
+  - Phân quyền
+- **PRODUCT**
+  - Thêm, xóa, sửa
+  - Phân trang theo hàng - tìm kiếm
+  - Quản lý chi tiết sản phẩm
+    - Thêm, xóa, sửa chi tiết sản phẩm
+    - Cập nhật số lượng tồn
+- **CUSTOMER**
+  - Thêm, xóa, sửa
+  - Cập nhật trạng thái tài khoản bị khóa
+- **ORDER**
+  - Xem chi tiết đơn hàng
+  - Cập nhật trạng thái đơn hàng
+  - Sắp xếp theo thời gian đặt (tăng dần và giảm dần)
+  - Lọc theo trạng thái đơn hàng và hình thức thanh toán
+  - Tìm kiếm theo số điện thoại và địa chỉ
+- **VOUCHER**
+  - Thêm, xóa, sửa
+- **BÁO CÁO THỐNG KÊ**
+  - Tổng số đơn hàng
+  - Tổng số lượng sản phẩm đã mua
+  - Tổng doanh thu
+  - Thống kê theo thời gian
+- **POS**
+  - Bán sản phẩm cho khách hàng khi mua tại cửa hàng
+  - Thanh toán bằng tiền mặt hoặc qua ngân hàng
+
+#### EMPLOYEES:
+- **PRODUCT**
+  - Xem số lượng sản phẩm còn lại trong kho
+- **ORDER**
+  - Xem chi tiết đơn hàng
+  - Cập nhật trạng thái đơn hàng
+  - Sắp xếp theo thời gian đặt (tăng dần và giảm dần)
+  - Lọc theo trạng thái đơn hàng và hình thức thanh toán
+  - Tìm kiếm theo số điện thoại và địa chỉ
+- **POS**
+  - Bán sản phẩm cho khách hàng khi mua tại cửa hàng
+  - Thanh toán bằng tiền mặt hoặc qua ngân hàng
+- **BÁO CÁO THỐNG KÊ**
+  - Tổng số đơn hàng
+  - Tổng số lượng sản phẩm đã mua
+  - Tổng doanh thu
+  - Thống kê theo thời gian
 
 
