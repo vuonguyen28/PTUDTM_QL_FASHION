@@ -48,15 +48,139 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 <p>Nghiệp vụ</p>
 
-| STT | Nghiệp vụ | Phân công  |
-|----------------|--------------------|--------------------|
-|  1  |  Tìm kiếm sách |   Thi  |
-|  2  |  Đăng nhập đăng ký |  Thảo  |
-|  3  |  Xem thông tin sách [Trang chủ, trang tin tức, trang giới thiệu, trang xem toàn bộ sách(có bộ lọc),Xem chi tiết sách, đánh giá sách]  |   Thi  |
-|  4  |  Quản lý thông tin tài khoản [Thông tin KH, thông tin tài khoản, thông tin đơn hàng đã mua, sách yêu thích] |  Phát  |
-|  5  |  Mua hàng  |  Phát  |
-|  6 |  Thanh toán |  Phát  |
-|  7 |  Đánh giá |  Phát  |
+<h1>Bảng Phân Chia Công Việc - Web</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>Nhiệm Vụ</th>
+                <th>Mô Tả Chức Năng</th>
+                <th>Thành Viên</th>
+                <th>Thời Gian Thực Tế</th>
+                <th>Trạng Thái</th>
+                <th>Ghi Chú</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Thêm, xóa, sửa Color (Admin)</td>
+                <td>Quản lý các màu sắc của sản phẩm</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Thêm, xóa, sửa Size (Admin)</td>
+                <td>Quản lý các kích cỡ của sản phẩm</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Thêm, xóa, sửa Category (Admin)</td>
+                <td>Quản lý các danh mục sản phẩm</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Thêm, xóa, sửa Product (Admin)</td>
+                <td>Quản lý thông tin sản phẩm</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Thêm Product bằng file Excel</td>
+                <td>Nhập sản phẩm từ file Excel</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Quản lý chi tiết sản phẩm</td>
+                <td>Cập nhật số lượng tồn, thêm, xóa, sửa chi tiết sản phẩm</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Thêm, xóa, sửa Customer</td>
+                <td>Quản lý thông tin khách hàng</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Xem chi tiết giỏ hàng khách hàng</td>
+                <td>Xem và quản lý giỏ hàng của khách hàng</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Cập nhật trạng thái tài khoản</td>
+                <td>Cập nhật trạng thái bị khóa của tài khoản khách hàng</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Xem chi tiết đơn hàng</td>
+                <td>Xem thông tin chi tiết của đơn hàng</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>Cập nhật trạng thái đơn hàng</td>
+                <td>Thay đổi trạng thái của đơn hàng</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>Vouching - Thêm, xóa, sửa</td>
+                <td>Quản lý mã giảm giá</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>Báo cáo thống kê</td>
+                <td>Tổng hợp thông tin đơn hàng, doanh thu, sản phẩm</td>
+                <td>[Tên Thành Viên]</td>
+                <td>[Ngày/Tháng/Năm]</td>
+                <td>Chưa Hoàn Thành</td>
+                <td>[Ghi chú thêm]</td>
+            </tr>
+        </tbody>
+    </table>
 
 
 <p>App: Winform </p>
