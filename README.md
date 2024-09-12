@@ -114,6 +114,7 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 |------------------------------|------------------|------------------------------------------------|---------------|
 | Thiết kế Database            | Tính , Phúc | Thiết kế cấu trúc cơ sở dữ liệu                 | Chưa          |
 | Tích hợp thanh toán Momo      | Vương | Cấu hình thanh toán Momo                       | Chưa          |
+| Chat box  AI   | Nhóm | tư vấn tự động cho khách hàng                     | Chưa          |
 
 <h3>App: Winform </h3>
 <p>Ngôn ngữ: C# </p>
