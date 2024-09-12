@@ -135,8 +135,8 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 | - Quản lý chi tiết sản phẩm         | Vương     | Cập nhật chi tiết và số lượng tồn       | Chưa          |
 | - Xem số lượng sản phẩm còn lại trong kho | Vương      | Kiểm tra số lượng sản phẩm trong kho   | Chưa          |
 | **CUSTOMER**                       |                  |                                        |               |
-| - Thêm, xóa, sửa                    | Vương      | Quản lý thông tin khách hàng            | Chưa          |
-| - Cập nhật trạng thái tài khoản bị khóa | Vương  | Khóa/mở khóa tài khoản khách hàng       | Chưa          |
+| - Thêm, xóa, sửa                    | Tính       | Quản lý thông tin khách hàng            | Chưa          |
+| - Cập nhật trạng thái tài khoản bị khóa | Phúc  | Khóa/mở khóa tài khoản khách hàng       | Chưa          |
 | **ORDER**                          |                  |                                        |               |
 | - Xem chi tiết đơn hàng             | Tính      | Quản lý thông tin chi tiết đơn hàng     | Chưa          |
 | - Cập nhật trạng thái đơn hàng      | Tính      | Cập nhật trạng thái đơn hàng            | Chưa          |
