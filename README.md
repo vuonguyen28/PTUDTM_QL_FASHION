@@ -128,57 +128,36 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 | **SIZE** - Thêm, xóa, sửa           | Vương      | Quản lý kích thước sản phẩm             | Chưa          |
 | **CATEGORY** - Thêm, xóa, sửa       | Vương      | Quản lý danh mục sản phẩm               | Chưa          |
 | **EMPLOYEES**                       |                  |                                        |               |
-| - Thêm, xóa, sửa nhân viên          | Nhân viên C      | Quản lý thông tin nhân viên             | Chưa          |
-| - Phân quyền                        | Nhân viên C      | Quản lý phân quyền nhân viên            | Chưa          |
+| - Thêm, xóa, sửa nhân viên          | Tính      | Quản lý thông tin nhân viên             | Chưa          |
+| - Phân quyền                        | Phúc      | Quản lý phân quyền nhân viên            | Chưa          |
 | **PRODUCT**                        |                  |                                        |               |
 | - Thêm, xóa, sửa                    | Vương      | Quản lý thông tin sản phẩm              | Chưa          |
 | - Quản lý chi tiết sản phẩm         | Vương     | Cập nhật chi tiết và số lượng tồn       | Chưa          |
+| - Xem số lượng sản phẩm còn lại trong kho | Vương      | Kiểm tra số lượng sản phẩm trong kho   | Chưa          |
 | **CUSTOMER**                       |                  |                                        |               |
-| - Thêm, xóa, sửa                    | Nhân viên E      | Quản lý thông tin khách hàng            | Chưa          |
-| - Cập nhật trạng thái tài khoản bị khóa | Nhân viên E  | Khóa/mở khóa tài khoản khách hàng       | Chưa          |
+| - Thêm, xóa, sửa                    | Vương      | Quản lý thông tin khách hàng            | Chưa          |
+| - Cập nhật trạng thái tài khoản bị khóa | Vương  | Khóa/mở khóa tài khoản khách hàng       | Chưa          |
 | **ORDER**                          |                  |                                        |               |
-| - Xem chi tiết đơn hàng             | Nhân viên F      | Quản lý thông tin chi tiết đơn hàng     | Chưa          |
-| - Cập nhật trạng thái đơn hàng      | Nhân viên F      | Cập nhật trạng thái đơn hàng            | Chưa          |
-| - Sắp xếp theo thời gian đặt        | Nhân viên F      | Sắp xếp đơn hàng theo thời gian         | Chưa          |
-| - Lọc theo trạng thái và hình thức thanh toán | Nhân viên F | Lọc đơn hàng theo trạng thái và thanh toán | Chưa          |
-| - Tìm kiếm theo số điện thoại và địa chỉ | Nhân viên F | Tìm kiếm đơn hàng theo số điện thoại và địa chỉ | Chưa          |
-| **VOUCHER**                        | Nhân viên G      | Quản lý voucher                         | Chưa          |
+| - Xem chi tiết đơn hàng             | Tính      | Quản lý thông tin chi tiết đơn hàng     | Chưa          |
+| - Cập nhật trạng thái đơn hàng      | Tính      | Cập nhật trạng thái đơn hàng            | Chưa          |
+| - Sắp xếp theo thời gian đặt        | Tính      | Sắp xếp đơn hàng theo thời gian         | Chưa          |
+| - Lọc theo trạng thái và hình thức thanh toán | Tính | Lọc đơn hàng theo trạng thái và thanh toán | Chưa          |
+| - Tìm kiếm theo số điện thoại và địa chỉ | Tính | Tìm kiếm đơn hàng theo số điện thoại và địa chỉ | Chưa          |
+| **VOUCHER**                        | Phúc     | Quản lý voucher                         | Chưa          |
 | **BÁO CÁO THỐNG KÊ**               |                  |                                        |               |
-| - Tổng số đơn hàng                  | Nhân viên H      | Thống kê tổng số đơn hàng               | Chưa          |
-| - Tổng số lượng sản phẩm đã mua     | Nhân viên H      | Thống kê tổng số sản phẩm đã mua        | Chưa          |
-| - Tổng doanh thu                    | Nhân viên H      | Thống kê tổng doanh thu                 | Chưa          |
-| - Thống kê theo thời gian           | Nhân viên H      | Thống kê theo thời gian                 | Chưa          |
+| - Tổng số đơn hàng                  | Phúc      | Thống kê tổng số đơn hàng               | Chưa          |
+| - Tổng số lượng sản phẩm đã mua     | Phúc     | Thống kê tổng số sản phẩm đã mua        | Chưa          |
+| - Tổng doanh thu                    | Phúc      | Thống kê tổng doanh thu                 | Chưa          |
+| - Thống kê theo thời gian           | Phúc      | Thống kê theo thời gian                 | Chưa          |
 | **POS**                            |                  |                                        |               |
 | - Bán sản phẩm cho khách hàng       | Vương     | Xử lý bán hàng tại cửa hàng             | Chưa          |
 | - Thanh toán bằng tiền mặt hoặc qua ngân hàng | Vương | Xử lý thanh toán tiền mặt hoặc ngân hàng | Chưa          |
 
-## EMPLOYEES
-
-| Tính năng                          | Người phụ trách | Ghi chú                                 | Đã hoàn thành |
-|------------------------------------|------------------|----------------------------------------|---------------|
-| **PRODUCT** - Xem số lượng sản phẩm còn lại trong kho | Nhân viên J      | Kiểm tra số lượng sản phẩm trong kho   | Chưa          |
-| **ORDER**                          |                  |                                        |               |
-| - Xem chi tiết đơn hàng             | Nhân viên K      | Xem thông tin chi tiết đơn hàng        | Chưa          |
-| - Cập nhật trạng thái đơn hàng      | Nhân viên K      | Cập nhật trạng thái đơn hàng           | Chưa          |
-| - Sắp xếp theo thời gian đặt        | Nhân viên K      | Sắp xếp đơn hàng theo thời gian        | Chưa          |
-| - Lọc theo trạng thái và hình thức thanh toán | Nhân viên K | Lọc đơn hàng theo trạng thái và hình thức thanh toán | Chưa          |
-| - Tìm kiếm theo số điện thoại và địa chỉ | Nhân viên K | Tìm kiếm đơn hàng theo số điện thoại và địa chỉ | Chưa          |
-| **POS**                            |                  |                                        |               |
-| - Bán sản phẩm cho khách hàng       | Nhân viên L      | Xử lý bán hàng tại cửa hàng            | Chưa          |
-| - Thanh toán bằng tiền mặt hoặc qua ngân hàng | Nhân viên L | Xử lý thanh toán tiền mặt hoặc ngân hàng | Chưa          |
-| **BÁO CÁO THỐNG KÊ**               |                  |                                        |               |
-| - Tổng số đơn hàng                  | Nhân viên L      | Thống kê tổng số đơn hàng              | Chưa          |
-| - Tổng số lượng sản phẩm đã mua     | Nhân viên L      | Thống kê tổng số sản phẩm đã mua       | Chưa          |
-| - Tổng doanh thu                    | Nhân viên L      | Thống kê tổng doanh thu                | Chưa          |
-| - Thống kê theo thời gian           | Nhân viên L      | Thống kê theo thời gian                | Chưa          |
 
 
 
-
-## Chức năng hệ thống
-
-### CHỨC NĂNG HỆ THỐNG WEB
-
+###### Chức năng hệ thống
+##### CHỨC NĂNG HỆ THỐNG WEB
 #### ADMIN:
 - **COLOR**
   - Thêm, xóa, sửa
@@ -252,7 +231,7 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
   - Đăng ký
   - Quên mật khẩu (mật khẩu mới gửi về email)
 
-### CHỨC NĂNG HỆ THỐNG WINFORMS
+##### CHỨC NĂNG HỆ THỐNG WINFORMS
 
 #### ADMIN:
 - **COLOR**
