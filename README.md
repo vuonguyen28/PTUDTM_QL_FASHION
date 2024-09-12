@@ -112,8 +112,8 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 | Công việc                    | Người phụ trách | Ghi chú                                        | Đã hoàn thành |
 |------------------------------|------------------|------------------------------------------------|---------------|
-| Thiết kế Database            | Tính , Phúc | Thiết kế cấu trúc cơ sở dữ liệu                 | Chưa          |
-| Tích hợp thanh toán Momo      | Vương | Cấu hình thanh toán Momo                       | Chưa          |
+| Thiết kế Database            | Tính , Phúc | Thiết kế cấu trúc cơ sở dữ liệu                 | Done         |
+| Tích hợp thanh toán Momo      | Vương | Cấu hình thanh toán Momo                       | Done          |
 | Chat box  AI   | Nhóm | tư vấn tự động cho khách hàng                     | Chưa          |
 
 <h3>App: Winform </h3>
@@ -125,18 +125,18 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 | Tính năng                          | Người phụ trách | Ghi chú                                 | Đã hoàn thành |
 |------------------------------------|------------------|----------------------------------------|---------------|
-| **COLOR** - Thêm, xóa, sửa          | Vương     | Quản lý màu sắc sản phẩm                | Chưa          |
-| **SIZE** - Thêm, xóa, sửa           | Vương      | Quản lý kích thước sản phẩm             | Chưa          |
-| **CATEGORY** - Thêm, xóa, sửa       | Vương      | Quản lý danh mục sản phẩm               | Chưa          |
+| **COLOR** - Thêm, xóa, sửa , tìm kiếm        | Vương     | Quản lý màu sắc sản phẩm                | Chưa          |
+| **SIZE** - Thêm, xóa, sửa , tìm kiếm          | Vương      | Quản lý kích thước sản phẩm             | Chưa          |
+| **CATEGORY** - Thêm, xóa, sửa , tìm kiếm      | Vương      | Quản lý danh mục sản phẩm               | Chưa          |
 | **EMPLOYEES**                       |                  |                                        |               |
-| - Thêm, xóa, sửa nhân viên          | Tính      | Quản lý thông tin nhân viên             | Chưa          |
+| - Thêm, xóa, sửa nhân viên , tìm kiếm         | Tính      | Quản lý thông tin nhân viên             | Chưa          |
 | - Phân quyền                        | Phúc      | Quản lý phân quyền nhân viên            | Chưa          |
 | **PRODUCT**                        |                  |                                        |               |
-| - Thêm, xóa, sửa                    | Vương      | Quản lý thông tin sản phẩm              | Chưa          |
+| - Thêm, xóa, sửa , tìm kiếm                   | Vương      | Quản lý thông tin sản phẩm              | Chưa          |
 | - Quản lý chi tiết sản phẩm         | Vương     | Cập nhật chi tiết và số lượng tồn       | Chưa          |
 | - Xem số lượng sản phẩm còn lại trong kho | Vương      | Kiểm tra số lượng sản phẩm trong kho   | Chưa          |
 | **CUSTOMER**                       |                  |                                        |               |
-| - Thêm, xóa, sửa                    | Tính       | Quản lý thông tin khách hàng            | Chưa          |
+| - Thêm, xóa, sửa , tìm kiếm                   | Tính       | Quản lý thông tin khách hàng            | Chưa          |
 | - Cập nhật trạng thái tài khoản bị khóa | Phúc  | Khóa/mở khóa tài khoản khách hàng       | Chưa          |
 | **ORDER**                          |                  |                                        |               |
 | - Xem chi tiết đơn hàng             | Tính      | Quản lý thông tin chi tiết đơn hàng     | Chưa          |
@@ -144,7 +144,7 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 | - Sắp xếp theo thời gian đặt        | Tính      | Sắp xếp đơn hàng theo thời gian         | Chưa          |
 | - Lọc theo trạng thái và hình thức thanh toán | Tính | Lọc đơn hàng theo trạng thái và thanh toán | Chưa          |
 | - Tìm kiếm theo số điện thoại và địa chỉ | Tính | Tìm kiếm đơn hàng theo số điện thoại và địa chỉ | Chưa          |
-| **VOUCHER**                        | Phúc     | Quản lý voucher                         | Chưa          |
+| **VOUCHER** - Thêm , xóa , sửa , tìm kiếm  | Phúc     | Quản lý voucher                         | Chưa          |
 | **BÁO CÁO THỐNG KÊ**               |                  |                                        |               |
 | - Tổng số đơn hàng                  | Phúc      | Thống kê tổng số đơn hàng               | Chưa          |
 | - Tổng số lượng sản phẩm đã mua     | Phúc     | Thống kê tổng số sản phẩm đã mua        | Chưa          |
