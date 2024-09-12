@@ -58,26 +58,26 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 | UC  | Tính năng                                                                 | Người phụ trách | Ghi chú                                           | Đã hoàn thành |
 |-----|---------------------------------------------------------------------------|------------------|--------------------------------------------------|---------------|
-| UC1 | COLOR - Thêm, xóa, sửa                                                     | Thành viên A     | Quản lý màu sắc cho sản phẩm                     | Chưa          |
-| UC2 | SIZE - Thêm, xóa, sửa                                                      | Thành viên A     | Quản lý kích thước sản phẩm                      | Chưa          |
-| UC3 | CATEGORY - Thêm, xóa, sửa                                                   | Thành viên B     | Quản lý danh mục sản phẩm                        | Chưa          |
-| UC4 | PRODUCT - Thêm, xóa, sửa                                                    | Thành viên B     | Quản lý sản phẩm, chi tiết sản phẩm              | Chưa          |
-| UC5 | PRODUCT - Thêm bằng file excel                                               | Thành viên B     | Nhập sản phẩm từ file Excel                      | Chưa          |
-| UC6 | PRODUCT - Phân trang theo row, search                                        | Thành viên B     | Tìm kiếm, phân trang sản phẩm                    | Chưa          |
-| UC7 | Quản lý chi tiết sản phẩm - Thêm, xóa, sửa, cập nhật số lượng tồn          | Thành viên B     | Cập nhật chi tiết sản phẩm và số lượng tồn       | Chưa          |
-| UC8 | CUSTOMER - Thêm, xóa, sửa                                                    | Thành viên C     | Quản lý thông tin khách hàng                     | Chưa          |
-| UC9 | CUSTOMER - Xem chi tiết giỏ hàng khách hàng                                 | Thành viên C     | Xem giỏ hàng khách hàng                          | Chưa          |
-| UC10| CUSTOMER - Cập nhật trạng thái tài khoản bị khóa                           | Thành viên C     | Khóa/mở khóa tài khoản khách hàng                | Chưa          |
-| UC11| ORDER - Xem chi tiết đơn hàng                                               | Thành viên A     | Quản lý thông tin chi tiết đơn hàng              | Chưa          |
-| UC12| ORDER - Cập nhật trạng thái đơn hàng                                        | Thành viên A     | Cập nhật trạng thái giao hàng                    | Chưa          |
-| UC13| ORDER - Sắp xếp theo thời gian đặt                                          | Thành viên A     | Sắp xếp đơn hàng theo thời gian                  | Chưa          |
-| UC14| ORDER - Lọc theo trạng thái, hình thức thanh toán                          | Thành viên A     | Lọc đơn hàng theo trạng thái                    | Chưa          |
-| UC15| ORDER - Tìm kiếm theo số điện thoại và địa chỉ                             | Thành viên A     | Tìm kiếm đơn hàng                                | Chưa          |
-| UC16| VOUCHER - Thêm, xóa, sửa                                                     | Thành viên B     | Quản lý voucher                                  | Chưa          |
-| UC17| BÁO CÁO THỐNG KÊ - Tổng số đơn hàng                                         | Thành viên D     | Thống kê tổng số đơn hàng                        | Chưa          |
-| UC18| BÁO CÁO THỐNG KÊ - Tổng số lượng sản phẩm đã mua                            | Thành viên D     | Thống kê tổng số sản phẩm đã mua                 | Chưa          |
-| UC19| BÁO CÁO THỐNG KÊ - Tổng doanh thu                                           | Thành viên D     | Thống kê tổng doanh thu                          | Chưa          |
-| UC20| BÁO CÁO THỐNG KÊ - Theo thời gian                                           | Thành viên D     | Thống kê theo thời gian                          | Chưa          |
+| UC1 | COLOR - Thêm, xóa, sửa                                                     | Tính     | Quản lý màu sắc cho sản phẩm                     | Chưa          |
+| UC2 | SIZE - Thêm, xóa, sửa                                                      | Tính    | Quản lý kích thước sản phẩm                      | Chưa          |
+| UC3 | CATEGORY - Thêm, xóa, sửa                                                   | Tính    | Quản lý danh mục sản phẩm                        | Chưa          |
+| UC4 | PRODUCT - Thêm, xóa, sửa                                                    | Tính     | Quản lý sản phẩm, chi tiết sản phẩm              | Chưa          |
+| UC5 | PRODUCT - Thêm bằng file excel                                               | Tính    | Nhập sản phẩm từ file Excel                      | Chưa          |
+| UC6 | PRODUCT - Phân trang theo row, search                                        | Tính    | Tìm kiếm, phân trang sản phẩm                    | Chưa          |
+| UC7 | Quản lý chi tiết sản phẩm - Thêm, xóa, sửa, cập nhật số lượng tồn          | Tính    | Cập nhật chi tiết sản phẩm và số lượng tồn       | Chưa          |
+| UC8 | CUSTOMER - Thêm, xóa, sửa                                                    | Tính    | Quản lý thông tin khách hàng                     | Chưa          |
+| UC9 | CUSTOMER - Xem chi tiết giỏ hàng khách hàng                                 | Tính    | Xem giỏ hàng khách hàng                          | Chưa          |
+| UC10| CUSTOMER - Cập nhật trạng thái tài khoản bị khóa                           | Tính    | Khóa/mở khóa tài khoản khách hàng                | Chưa          |
+| UC11| ORDER - Xem chi tiết đơn hàng                                               | Phúc     | Quản lý thông tin chi tiết đơn hàng              | Chưa          |
+| UC12| ORDER - Cập nhật trạng thái đơn hàng                                        | Phúc      | Cập nhật trạng thái giao hàng                    | Chưa          |
+| UC13| ORDER - Sắp xếp theo thời gian đặt                                          | Phúc      | Sắp xếp đơn hàng theo thời gian                  | Chưa          |
+| UC14| ORDER - Lọc theo trạng thái, hình thức thanh toán                          | Phúc     | Lọc đơn hàng theo trạng thái                    | Chưa          |
+| UC15| ORDER - Tìm kiếm theo số điện thoại và địa chỉ                             | Phúc     | Tìm kiếm đơn hàng                                | Chưa          |
+| UC16| VOUCHER - Thêm, xóa, sửa                                                     | Phúc      | Quản lý voucher                                  | Chưa          |
+| UC17| BÁO CÁO THỐNG KÊ - Tổng số đơn hàng                                         | Phúc      | Thống kê tổng số đơn hàng                        | Chưa          |
+| UC18| BÁO CÁO THỐNG KÊ - Tổng số lượng sản phẩm đã mua                            | Phúc     | Thống kê tổng số sản phẩm đã mua                 | Chưa          |
+| UC19| BÁO CÁO THỐNG KÊ - Tổng doanh thu                                           | Phúc      | Thống kê tổng doanh thu                          | Chưa          |
+| UC20| BÁO CÁO THỐNG KÊ - Theo thời gian                                           | Phúc     | Thống kê theo thời gian                          | Chưa          |
 
 ---
 
@@ -85,26 +85,26 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 | UC  | Tính năng                                                                 | Người phụ trách | Ghi chú                                           | Đã hoàn thành |
 |-----|---------------------------------------------------------------------------|------------------|--------------------------------------------------|---------------|
-| UC21| TRANG HOME - Xem top 8 sản phẩm bán chạy                                    | Thành viên E     | Hiển thị sản phẩm bán chạy                       | Chưa          |
-| UC22| TRANG HOME - Xem top 8 sản phẩm sale                                        | Thành viên E     | Hiển thị sản phẩm giảm giá                       | Chưa          |
-| UC23| TRANG PRODUCT - Xem tất cả sản phẩm                                         | Thành viên F     | Hiển thị danh sách sản phẩm                      | Chưa          |
-| UC24| TRANG PRODUCT - Tìm kiếm sản phẩm theo tên                                 | Thành viên F     | Tìm kiếm sản phẩm theo tên                       | Chưa          |
-| UC25| TRANG PRODUCT - Xem sản phẩm theo danh mục                                 | Thành viên F     | Hiển thị sản phẩm theo danh mục                  | Chưa          |
-| UC26| TRANG PRODUCT DETAIL - Xem chi tiết sản phẩm                               | Thành viên G     | Hiển thị thông tin chi tiết sản phẩm             | Chưa          |
-| UC27| TRANG PRODUCT DETAIL - Xem số lượng sản phẩm đã bán                        | Thành viên G     | Thống kê số lượng sản phẩm đã bán                | Chưa          |
-| UC28| TRANG PRODUCT DETAIL - Xem số lượt đánh giá sản phẩm                       | Thành viên G     | Thống kê lượt đánh giá                           | Chưa          |
-| UC29| TRANG PRODUCT DETAIL - Xem đánh giá sản phẩm                               | Thành viên G     | Hiển thị đánh giá sản phẩm                       | Chưa          |
-| UC30| TRANG PRODUCT DETAIL - Chọn màu sản phẩm theo kích thước                   | Thành viên G     | Lựa chọn màu và kích thước sản phẩm              | Chưa          |
-| UC31| TRANG CART - Tự động cập nhật tiền khi thêm sản phẩm                       | Thành viên H     | Tự động tính toán lại tổng tiền                 | Chưa          |
-| UC32| TRANG CART - Cập nhật thông tin nhận hàng                                  | Thành viên H     | Cập nhật thông tin nhận hàng                     | Chưa          |
-| UC33| TRANG CART - Nhập mã voucher, tự cập nhật số tiền                         | Thành viên H     | Áp dụng mã giảm giá                              | Chưa          |
-| UC34| TRANG CART - Thanh toán sau khi nhận hàng hoặc bằng Momo                    | Thành viên H     | Tích hợp thanh toán Momo và kiểm tra đơn hàng    | Chưa          |
-| UC35| TRANG KIỂM TRA ĐƠN HÀNG - Xem đơn hàng theo số điện thoại                   | Thành viên E     | Kiểm tra đơn hàng cho khách hàng chưa đăng nhập | Chưa          |
-| UC36| TRANG VOUCHER - Lưu voucher về                                              | Thành viên F     | Lưu thông tin mã giảm giá của người dùng        | Chưa          |
-| UC37| TRANG MY PROFILE - Xem, cập nhật thông tin và đổi mật khẩu                | Thành viên G     | Quản lý thông tin cá nhân người dùng            | Chưa          |
-| UC38| TRANG MY ORDER - Xem đơn đã đặt, đơn đang giao, đơn đã nhận, đơn hủy      | Thành viên H     | Hiển thị trạng thái đơn hàng của người dùng     | Chưa          |
-| UC39| TRANG MY VOUCHER - Xem voucher đã lưu                                       | Thành viên F     | Hiển thị các voucher đã lưu của người dùng      | Chưa          |
-| UC40| TRANG LOGIN - Đăng nhập, đăng ký, quên mật khẩu                           | Thành viên E     | Quản lý xác thực người dùng                     | Chưa          |
+| UC21| TRANG HOME - Xem top 8 sản phẩm bán chạy                                    | Vương     | Hiển thị sản phẩm bán chạy                       | Chưa          |
+| UC22| TRANG HOME - Xem top 8 sản phẩm sale                                        | Vương      | Hiển thị sản phẩm giảm giá                       | Chưa          |
+| UC23| TRANG PRODUCT - Xem tất cả sản phẩm                                         | Vương     | Hiển thị danh sách sản phẩm                      | Chưa          |
+| UC24| TRANG PRODUCT - Tìm kiếm sản phẩm theo tên                                 | Vương     | Tìm kiếm sản phẩm theo tên                       | Chưa          |
+| UC25| TRANG PRODUCT - Xem sản phẩm theo danh mục                                 | Vương      | Hiển thị sản phẩm theo danh mục                  | Chưa          |
+| UC26| TRANG PRODUCT DETAIL - Xem chi tiết sản phẩm                               | Vương     | Hiển thị thông tin chi tiết sản phẩm             | Chưa          |
+| UC27| TRANG PRODUCT DETAIL - Xem số lượng sản phẩm đã bán                        | Vương      | Thống kê số lượng sản phẩm đã bán                | Chưa          |
+| UC28| TRANG PRODUCT DETAIL - Xem số lượt đánh giá sản phẩm                       | Vương      | Thống kê lượt đánh giá                           | Chưa          |
+| UC29| TRANG PRODUCT DETAIL - Xem đánh giá sản phẩm                               | Vương      | Hiển thị đánh giá sản phẩm                       | Chưa          |
+| UC30| TRANG PRODUCT DETAIL - Chọn màu sản phẩm theo kích thước                   | Vương     | Lựa chọn màu và kích thước sản phẩm              | Chưa          |
+| UC31| TRANG CART - Tự động cập nhật tiền khi thêm sản phẩm                       | Vương      | Tự động tính toán lại tổng tiền                 | Chưa          |
+| UC32| TRANG CART - Cập nhật thông tin nhận hàng                                  | Vương      | Cập nhật thông tin nhận hàng                     | Chưa          |
+| UC33| TRANG CART - Nhập mã voucher, tự cập nhật số tiền                         | Vương     | Áp dụng mã giảm giá                              | Chưa          |
+| UC34| TRANG CART - Thanh toán sau khi nhận hàng hoặc bằng Momo                    | Vương      | Tích hợp thanh toán Momo và kiểm tra đơn hàng    | Chưa          |
+| UC35| TRANG KIỂM TRA ĐƠN HÀNG - Xem đơn hàng theo số điện thoại                   | Vương      | Kiểm tra đơn hàng cho khách hàng chưa đăng nhập | Chưa          |
+| UC36| TRANG VOUCHER - Lưu voucher về                                              | Vương      | Lưu thông tin mã giảm giá của người dùng        | Chưa          |
+| UC37| TRANG MY PROFILE - Xem, cập nhật thông tin và đổi mật khẩu                | Vương     | Quản lý thông tin cá nhân người dùng            | Chưa          |
+| UC38| TRANG MY ORDER - Xem đơn đã đặt, đơn đang giao, đơn đã nhận, đơn hủy      | Vương      | Hiển thị trạng thái đơn hàng của người dùng     | Chưa          |
+| UC39| TRANG MY VOUCHER - Xem voucher đã lưu                                       | Vương      | Hiển thị các voucher đã lưu của người dùng      | Chưa          |
+| UC40| TRANG LOGIN - Đăng nhập, đăng ký, quên mật khẩu                           | Vương      | Quản lý xác thực người dùng                     | Chưa          |
 
 ---
 
@@ -112,9 +112,8 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 | Công việc                    | Người phụ trách | Ghi chú                                        | Đã hoàn thành |
 |------------------------------|------------------|------------------------------------------------|---------------|
-| Thiết kế Database            | Thành viên D     | Thiết kế cấu trúc cơ sở dữ liệu                 | Chưa          |
-| Tích hợp API Backend          | Thành viên G, Thành viên H | Xây dựng API cho hệ thống                      | Chưa          |
-| Tích hợp thanh toán Momo      | Thành viên H     | Cấu hình thanh toán Momo                       | Chưa          |
+| Thiết kế Database            | Tính , Phúc | Thiết kế cấu trúc cơ sở dữ liệu                 | Chưa          |
+| Tích hợp thanh toán Momo      | Vương | Cấu hình thanh toán Momo                       | Chưa          |
 
 <h3>App: Winform </h3>
 <p>Ngôn ngữ: C# </p>
@@ -125,16 +124,15 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 
 | Tính năng                          | Người phụ trách | Ghi chú                                 | Đã hoàn thành |
 |------------------------------------|------------------|----------------------------------------|---------------|
-| **COLOR** - Thêm, xóa, sửa          | Nhân viên A      | Quản lý màu sắc sản phẩm                | Chưa          |
-| **SIZE** - Thêm, xóa, sửa           | Nhân viên A      | Quản lý kích thước sản phẩm             | Chưa          |
-| **CATEGORY** - Thêm, xóa, sửa       | Nhân viên B      | Quản lý danh mục sản phẩm               | Chưa          |
+| **COLOR** - Thêm, xóa, sửa          | Vương     | Quản lý màu sắc sản phẩm                | Chưa          |
+| **SIZE** - Thêm, xóa, sửa           | Vương      | Quản lý kích thước sản phẩm             | Chưa          |
+| **CATEGORY** - Thêm, xóa, sửa       | Vương      | Quản lý danh mục sản phẩm               | Chưa          |
 | **EMPLOYEES**                       |                  |                                        |               |
 | - Thêm, xóa, sửa nhân viên          | Nhân viên C      | Quản lý thông tin nhân viên             | Chưa          |
 | - Phân quyền                        | Nhân viên C      | Quản lý phân quyền nhân viên            | Chưa          |
 | **PRODUCT**                        |                  |                                        |               |
-| - Thêm, xóa, sửa                    | Nhân viên D      | Quản lý thông tin sản phẩm              | Chưa          |
-| - Phân trang theo row - search      | Nhân viên D      | Tìm kiếm và phân trang sản phẩm         | Chưa          |
-| - Quản lý chi tiết sản phẩm         | Nhân viên D      | Cập nhật chi tiết và số lượng tồn       | Chưa          |
+| - Thêm, xóa, sửa                    | Vương      | Quản lý thông tin sản phẩm              | Chưa          |
+| - Quản lý chi tiết sản phẩm         | Vương     | Cập nhật chi tiết và số lượng tồn       | Chưa          |
 | **CUSTOMER**                       |                  |                                        |               |
 | - Thêm, xóa, sửa                    | Nhân viên E      | Quản lý thông tin khách hàng            | Chưa          |
 | - Cập nhật trạng thái tài khoản bị khóa | Nhân viên E  | Khóa/mở khóa tài khoản khách hàng       | Chưa          |
@@ -151,8 +149,8 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 | - Tổng doanh thu                    | Nhân viên H      | Thống kê tổng doanh thu                 | Chưa          |
 | - Thống kê theo thời gian           | Nhân viên H      | Thống kê theo thời gian                 | Chưa          |
 | **POS**                            |                  |                                        |               |
-| - Bán sản phẩm cho khách hàng       | Nhân viên I      | Xử lý bán hàng tại cửa hàng             | Chưa          |
-| - Thanh toán bằng tiền mặt hoặc qua ngân hàng | Nhân viên I | Xử lý thanh toán tiền mặt hoặc ngân hàng | Chưa          |
+| - Bán sản phẩm cho khách hàng       | Vương     | Xử lý bán hàng tại cửa hàng             | Chưa          |
+| - Thanh toán bằng tiền mặt hoặc qua ngân hàng | Vương | Xử lý thanh toán tiền mặt hoặc ngân hàng | Chưa          |
 
 ## EMPLOYEES
 
