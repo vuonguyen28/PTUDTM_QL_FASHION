@@ -78,7 +78,7 @@ Hệ thống không chỉ giúp tối ưu hóa quá trình kinh doanh thời tra
 | UC18| BÁO CÁO THỐNG KÊ - Tổng số lượng sản phẩm đã mua                            | Phúc     | Thống kê tổng số sản phẩm đã mua                 | Chưa          |
 | UC19| BÁO CÁO THỐNG KÊ - Tổng doanh thu                                           | Phúc      | Thống kê tổng doanh thu                          | Chưa          |
 | UC20| BÁO CÁO THỐNG KÊ - Theo thời gian                                           | Phúc     | Thống kê theo thời gian                          | Chưa          |
-
+| UC20| Phân Quyền Nhân Viên                                          | Phúc     | Phân Quyền hệ thống                          | Chưa          |
 ---
 
 ## 2. User Panel
