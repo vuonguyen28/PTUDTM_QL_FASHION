@@ -22,3 +22,7 @@ class Cart extends Model
         return $this->belongsTo(ProductDetails::class, 'MaChiTietSanPham');
     }
 }
+
+
+
+
