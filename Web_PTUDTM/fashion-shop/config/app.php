@@ -123,4 +123,13 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    'aliases' => [
+        // Other Facades
+
+    //     'Excel' => Maatwebsite\Excel\Facades\Excel::class,
+    // ],
+        'Excel' => Maatwebsite\Excel\Facades\Excel::class,
+        'Cloudinary'=>CloudinaryLabs\CloudinaryLaravel\Facades\Cloudinary::class,
+    ],
+
 ];
