@@ -31,6 +31,10 @@ namespace Project_App.Services
             }
         }
 
+        public Size GetSizeById(int id)
+        {
+            return _sizeDAO.GetAllSize().FirstOrDefault(n => n.MaDanhMuc == id);
+        }
 
         public List<Size> getAllSize()
         {

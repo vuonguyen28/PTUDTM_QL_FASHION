@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Project_App
@@ -25,21 +18,32 @@ namespace Project_App
         public int Id_QuantityStock { get => id_QuantityStock; set => id_QuantityStock = value; }
         public int Id_SoLuongTon { get => id_SoLuongTon; set => id_SoLuongTon = value; }
 
+
+        private readonly Color_Services _colorService;
+        private readonly Size_Services _sizeService;
+
         public Uc_ProductDetailPos()
         {
             InitializeComponent();
+            _colorService = new Color_Services(new Color_DAO());
+            _sizeService = new Size_Services(new Size_DAO());
         }
-        private void Uc_ProductDetailPos_Load(object sender, EventArgs e)
+        private void LoadProductDetails()
         {
+            var color = _colorService.GetColorById(id_color);
+            label_Color.Text = color != null ? color.TenMau : "Unknown";
+
+            var size = _sizeService.GetSizeById(id_size);
+            label_Size.Text = size != null ? size.TenDanhMuc : "Unknown";
+
             txt_Number.Text = id_QuantityStock.ToString();
-            label_Color.Text = Id_color.ToString();
-            label_Size.Text = Id_size.ToString();
             lable_IDProduct.Text = Id.ToString();
             label_SoLuongTon.Text = Id_SoLuongTon.ToString();
         }
 
-       
-
-       
+        private void Uc_ProductDetailPos_Load(object sender, EventArgs e)
+        {
+            LoadProductDetails();
+        }
     }
 }

@@ -45,7 +45,7 @@ namespace Project_App.Services
 
         public Color GetColorById(int id)
         {
-            return _colorDao.GetAllColor().Where(n => n.MaMau == id).First();
+            return _colorDao.GetAllColor().FirstOrDefault(n => n.MaMau == id);
         }
 
 
