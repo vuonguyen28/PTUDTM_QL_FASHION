@@ -11,3 +11,16 @@ D:\App_CNPM\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
 D:\App_CNPM\ClassLibrary\bin\Debug\CloudinaryDotNet.xml
 D:\App_CNPM\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
 D:\App_CNPM\ClassLibrary\obj\Debug\ClassLib.939BCD28.Up2Date
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\bin\Debug\CloudinaryDotNet.dll
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\bin\Debug\CloudinaryDotNet.xml
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\obj\Debug\ClassLibrary.lable_timeNow.resources
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.cache
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\obj\Debug\ClassLib.939BCD28.Up2Date
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\HUFI\KH6\Lap Trinh PHP\htdocs\PTUDTM\App_PTUDTM\ClassLibrary\obj\Debug\ClassLibrary.pdb
