@@ -1,5 +1,6 @@
 {
     "require": {
-        "cloudinary-labs/cloudinary-laravel": "^2.2"
+        "cloudinary-labs/cloudinary-laravel": "^2.2",
+        "doctrine/dbal": "^4.1"
     }
 }
